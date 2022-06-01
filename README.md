@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/timdehof"><img src="https://github.com/timDeHof/timDeHof/main/devcard.svg" width="400" alt="tim DeHof's Dev Card"/></a>
+<a href="https://app.daily.dev/timdehof"><img src="https://github.com/timDeHof/timDeHof/blob/main/devcard.svg" width="400" alt="tim DeHof's Dev Card"/></a>
 <!--
 **timDeHof/timDeHof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
