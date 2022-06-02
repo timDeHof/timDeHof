@@ -24,7 +24,7 @@
   
 ***
 
-###👨‍💻 About Me :
+### 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Florida.
 - 😄 Pronouns: (he/him)
 - 🔭 I’m currently looking for job opportunities and continuing my education in tech.
