@@ -17,13 +17,32 @@
   <h1>
     Hi there 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-      </h1>
-    <a href="https://app.daily.dev/timdehof"><img src="https://github.com/timDeHof/timDeHof/blob/main/devcard.svg" width="300" alt="tim DeHof's Dev Card"/></a>
-
+  </h1> 
 </div>
-  
+  <a href="https://app.daily.dev/timdehof"><img src="https://github.com/timDeHof/timDeHof/blob/main/devcard.svg" width="300" alt="tim DeHof's Dev Card"/></a>
   </div>  
+  
+***
 
+###👨‍💻 About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Florida.
+- 😄 Pronouns: (he/him)
+- 🔭 I’m currently looking for job opportunities and continuing my education in tech.
+- 🌱 I’m currently exploring Unit Testing and Automation.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/)
+- ⚡ In my free time, I enjoy anime, video games, and reading tech articles.
+
+***
+
+### :hammer_and_wrench: Languages and Tools :
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,md,nodejs,postgres,prisma,express,github,heroku,netlify,vscode,webpack,figma)](https://skillicons.dev)
+
+***
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timDeHof&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timDeHof&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **timDeHof/timDeHof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
