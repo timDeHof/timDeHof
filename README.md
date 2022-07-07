@@ -28,7 +28,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Florida.
 - 😄 Pronouns: (he/him)
 - 🔭 I’m currently looking for job opportunities and continuing my education in tech.
-- 🌱 I’m currently exploring Unit Testing and Automation.
+- 🌱 I’m currently learning C# and .net Framework.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/)
 - ⚡ In my free time, I enjoy anime, video games, and reading tech articles.
 
