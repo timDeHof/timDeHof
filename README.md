@@ -31,13 +31,35 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 😄 Pronouns: (he/him)
 - 🔭 I’m currently looking for job opportunities and continuing my education in tech.
 - 🌱 I’m currently learning C# and .net Framework.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/)
-- ⚡ In my free time, I enjoy anime, video games, and reading tech articles.
+- ⚡ When I am not coding, I enjoy anime, video games, and reading tech articles.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/):envelope: <ttdehof@gmail.com>
+
 
 ***
+## :book: Education:
+![Fullstack Academy](https://img.shields.io/badge/fullstack_academy-2B283A?style=for-the-badge&logo=fullstack_academy&logoColor=white)
+- [Fullstack Academy Web Development Coding Bootcamp](https:www.fullstackacademy.com)
 
+![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
+- [The Frontend Developer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (Completion: 43%)
+- [Learn CSS Grid for free](https://scrimba.com/learn/cssgrid) (Completion: 25%)
+
+![Kaggle](https://img.shields.io/badge/kaggle-2B283A?style=for-the-badge&logoColor=white)
+- [Python](https://www.kaggle.com/learn/certification/timdehof/python) 
+
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+- [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,md,nodejs,postgres,prisma,express,github,heroku,netlify,vscode,webpack,figma)](https://skillicons.dev)
+#### 📋 Languages:
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,md)](https://skillicons.dev)
+#### 🗄️ Databases:
+[![My Skills](https://skillicons.dev/icons?i=postgres,prisma)](https://skillicons.dev)
+#### 📚 Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+#### :hammer: Tools:
+[![My Skills](https://skillicons.dev/icons?i=git,github,heroku,netlify,vscode,webpack)](https://skillicons.dev)
+#### :art: Design:
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ***
 
