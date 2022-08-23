@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Python](https://www.kaggle.com/learn/certification/timdehof/python) 
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-- [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/tdehof/responsive-web-design)
 ### :hammer_and_wrench: Languages and Tools :
 #### 📋 Languages:
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,md)](https://skillicons.dev)
