@@ -44,10 +44,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [The Frontend Developer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (Completion: 43%)
 - [Learn CSS Grid for free](https://scrimba.com/learn/cssgrid) (Completion: 25%)
 
-![Kaggle](https://img.shields.io/badge/kaggle-2B283A?style=for-the-badge&logoColor=white)
+![SoloLearn](https://img.shields.io/badge/sololearn-2B283A?style=for-the-badge&logo=sololearn&logoColor=white)
+- [React & Redux](https://www.sololearn.com/certificates/CT-3DICCPQQ)
+
+![Kaggle](https://img.shields.io/badge/kaggle-2B283A?style=for-the-badge&logo=kaggle&logoColor=white)
 - [Python](https://www.kaggle.com/learn/certification/timdehof/python) 
 
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-2B283A?style=for-the-badge&logo=freecodecamp&logoColor=white)
 - [Responsive Web Design](https://www.freecodecamp.org/certification/tdehof/responsive-web-design)
 ### :hammer_and_wrench: Languages and Tools :
 #### 📋 Languages:
