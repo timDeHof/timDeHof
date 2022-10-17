@@ -30,7 +30,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Florida.
 - 😄 Pronouns: (he/him)
 - 🔭 I’m currently looking for job opportunities and continuing my education in tech.
-- 🌱 I’m currently learning data structures and algrorithm.
+- 🌱 I’m currently learning redux and typescript.
 - ⚡ When I am not coding, I enjoy anime, video games, and reading tech articles.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/):envelope: <ttdehof@gmail.com>
 
