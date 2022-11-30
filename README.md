@@ -37,6 +37,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ***
 ## :book: Education:
+![Zero to Mastery](https://img.shields.io/badge/zero_to_mastery-2B283A?style=for-the-badge&logo=zero_to_mastery&logoColor=white)
+- [Complete Web Developer in 2023: Zero to Mastery](https://academy.zerotomastery.io/courses/697434/certificate)
+
 ![Fullstack Academy](https://img.shields.io/badge/fullstack_academy-2B283A?style=for-the-badge&logo=fullstack_academy&logoColor=white)
 - [Fullstack Academy Web Development Coding Bootcamp](https:www.fullstackacademy.com)
 
