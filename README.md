@@ -30,11 +30,10 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Florida.
 - 😄 Pronouns: (he/him)
 - 🔭 I’m currently looking for job opportunities and continuing my education in tech.
+- 👯 I’m looking to collaborate on Projects.
 - 🌱 I’m currently learning redux and typescript.
 - ⚡ When I am not coding, I enjoy anime, video games, and reading tech articles.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/):envelope: <ttdehof@gmail.com>
-
-
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttdehof@gmail.com)
 ***
 ## :book: Education:
 ![Zero to Mastery](https://img.shields.io/badge/zero_to_mastery-2B283A?style=for-the-badge&logo=zero_to_mastery&logoColor=white)
@@ -70,7 +69,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ***
 
 ### :fire: My Stats :
-![timDeHof's GitHub stats](https://github-readme-stats.vercel.app/api?username=timDeHof&theme=dark&show_icons=true)
+![timDeHof's GitHub stats](https://github-readme-stats.vercel.app/api?username=timDeHof&theme=monokai&show_icons=true)
 <!--
 **timDeHof/timDeHof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
