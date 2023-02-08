@@ -39,11 +39,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-2. 💪 Opened PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-3. 🗣 Commented on [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-4. ❗️ Closed issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-5. ❗️ Opened issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+1. 🎉 Merged PR [#1](https://github.com/timDeHof/timDeHof/pull/1) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
+2. ❗️ Opened issue [#6731](https://github.com/EddieHubCommunity/support/issues/6731) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#34](https://github.com/profydev/prolog-app-timDeHof/pull/34) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+4. 💪 Opened PR [#34](https://github.com/profydev/prolog-app-timDeHof/pull/34) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+5. 🎉 Merged PR [#33](https://github.com/profydev/prolog-app-timDeHof/pull/33) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
 <!--END_SECTION:activity-->
 
 ***
