@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 😄 Pronouns: (he/him)
 - 🔭 I’m currently looking for job opportunities and continuing my education in tech.
 - 👯 I’m looking to collaborate on Projects.
-- 🌱 I’m currently learning redux and typescript.
+- 🌱 I’m currently learning the PERN tech stack,redux, and typescript.
 - ⚡ When I am not coding, I enjoy anime, video games, and reading tech articles.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttdehof@gmail.com)
 ***
