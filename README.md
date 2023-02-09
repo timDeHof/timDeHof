@@ -39,11 +39,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/timDeHof/timDeHof/pull/1) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
-2. ❗️ Opened issue [#6731](https://github.com/EddieHubCommunity/support/issues/6731) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🎉 Merged PR [#34](https://github.com/profydev/prolog-app-timDeHof/pull/34) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-4. 💪 Opened PR [#34](https://github.com/profydev/prolog-app-timDeHof/pull/34) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-5. 🎉 Merged PR [#33](https://github.com/profydev/prolog-app-timDeHof/pull/33) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+1. 💪 Opened PR [#2486](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2486) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#1](https://github.com/timDeHof/timDeHof/pull/1) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
+3. ❗️ Opened issue [#6731](https://github.com/EddieHubCommunity/support/issues/6731) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🎉 Merged PR [#34](https://github.com/profydev/prolog-app-timDeHof/pull/34) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+5. 💪 Opened PR [#34](https://github.com/profydev/prolog-app-timDeHof/pull/34) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
 <!--END_SECTION:activity-->
 
 ***
