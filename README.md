@@ -37,6 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ***
 ### 📙 Blog Posts
 <!--START_SECTION:feed-->
+...
 <!--END_SECTION:feed-->
 
 ## :zap: Recent Activity
