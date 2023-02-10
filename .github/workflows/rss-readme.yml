@@ -1,5 +1,5 @@
 name: Update readme with blog posts
-on: 
+
 permissions:
   contents: write
 
