@@ -1,5 +1,13 @@
 name: Update readme with blog posts
 on: 
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     # Once a day at 8 AM
     - cron: 0 8 * * *
