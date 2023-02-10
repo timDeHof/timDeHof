@@ -35,6 +35,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ⚡ When I am not coding, I enjoy anime, video games, and reading tech articles.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttdehof@gmail.com)
 ***
+### 📙 Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
 ## :zap: Recent Activity
 
