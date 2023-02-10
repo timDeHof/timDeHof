@@ -1,24 +1,23 @@
-name: Update readme with blog posts
-
-permissions:
-  contents: write
+name: "📚 Blog Updater"
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
   schedule:
-    # Once a day at 8 AM
-    - cron: 0 8 * * *
+    - cron: '0 0 * * *' # Runs Every Day
 
 jobs:
-  update:
+  update_blogs:
+    name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          feed-url: https://blog.timdehof.dev/rss.xml
-          readme-section: feed
-          max: 10 # max number of items (default 5)
-          template: "#### [{{ title }}]({{ link }})"
+          USERNAME: 'your-username' # Hashnode Username
+          BLOG_URL: 'your-blog-url' # Blog URL
+          COUNT: 10 # MAX Visisble
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
