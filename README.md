@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ⚡ When I am not coding, I enjoy anime, video games, and reading tech articles.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttdehof@gmail.com)
 ***
-### Example RSS feed:
+### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
 #### [Unleash the Power of Java: A JavaScript Developer&#39;s Guide to Best Practices in Java Development](https:&#x2F;&#x2F;blog.timdehof.dev&#x2F;unleash-the-power-of-java-a-javascript-developers-guide-to-best-practices-in-java-development) 
