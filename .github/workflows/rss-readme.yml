@@ -19,5 +19,6 @@ jobs:
           USERNAME: 'ttdehof' # Hashnode Username
           BLOG_URL: 'https://blog.timdehof.dev/' # Blog URL
           COUNT: 10 # MAX Visisble
+          STYLE: "blog-alternate"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
