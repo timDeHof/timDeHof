@@ -36,13 +36,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttdehof@gmail.com)
 ***
 ## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
+<!-- BLOG-POST-LIST:Start -->
 - [Unleash the Power of Java: A JavaScript Developer's Guide to Best Practices in Java Development](https://blog.timdehof.dev//unleash-the-power-of-java-a-javascript-developers-guide-to-best-practices-in-java-development)
 - [Dev Retro 2022: From Mechanical Design Engineer to Fullstack Developer: My Journey and Lessons Learned](https://blog.timdehof.dev//dev-retro-2022-from-mechanical-design-engineer-to-fullstack-developer-my-journey-and-lessons-learned)
 - [The Power of a Growth Mindset in Software Development: How to Embrace Challenges and Advance Your Career](https://blog.timdehof.dev//the-power-of-a-growth-mindset-in-software-development-how-to-embrace-challenges-and-advance-your-career)
 - [A Roadmap for Transferring Skills from Mechanical Design Engineering to Fullstack Development](https://blog.timdehof.dev//a-roadmap-for-transferring-skills-from-mechanical-design-engineering-to-fullstack-development)
 - [Becoming a Self-Learner: Tips and Strategies for Personal and Professional Growth](https://blog.timdehof.dev//becoming-a-self-learner-tips-and-strategies-for-personal-and-professional-growth)
-<!-- HASHNODE_BLOG:END -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ## :zap: Recent Activity
