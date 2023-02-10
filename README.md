@@ -48,11 +48,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/timDeHof/timDeHof/pull/2) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
-2. ❌ Reopened PR [#2486](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2486) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. ❌ Closed PR [#2486](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2486) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 💪 Opened PR [#2486](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2486) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#1](https://github.com/timDeHof/timDeHof/pull/1) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
+1. 🎉 Merged PR [#3](https://github.com/timDeHof/timDeHof/pull/3) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
+2. 💪 Opened PR [#3](https://github.com/timDeHof/timDeHof/pull/3) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
+3. 🎉 Merged PR [#2](https://github.com/timDeHof/timDeHof/pull/2) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
+4. ❌ Reopened PR [#2486](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2486) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. ❌ Closed PR [#2486](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2486) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 ***
