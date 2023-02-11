@@ -21,18 +21,33 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   </h1> 
 </div>
-  <a href="https://app.daily.dev/timdehof"><img src="https://github.com/timDeHof/timDeHof/blob/main/devcard.svg" width="300" alt="tim DeHof's Dev Card"/></a>
-  </div>  
   
-***
+  </div>  
 
 ### 👨‍💻 About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Florida.
-- 😄 Pronouns: (he/him)
-- 🔭 I’m currently looking for job opportunities and continuing my education in tech.
-- 👯 I’m looking to collaborate on Projects.
-- 🌱 I’m currently learning the PERN tech stack,redux, and typescript.
-- ⚡ When I am not coding, I enjoy anime, video games, and reading tech articles.
+<table>
+  <tr>
+    <td valign="center">
+ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Florida.
+      
+ 😄 Pronouns: (he/him)
+      
+ 🔭 I’m currently looking for job opportunities and continuing my education in tech.
+      
+ 👯 I’m looking to collaborate on Projects.
+      
+ 🌱 I’m currently learning the PERN tech stack,redux, and typescript.
+      
+ ⚡ When I am not coding, I enjoy anime, video games, and reading tech articles.
+      <td>  
+ <a href="https://app.daily.dev/timdehof"><img 
+  src="https://github.com/timDeHof/timDeHof/blob/main/devcard.svg" width="300" alt="tim DeHof's Dev Card"/></a> 
+    </td>
+    
+  </tr>
+
+</table>
+
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttdehof@gmail.com)
 ***
 ## My Latest Blog Posts 👇
