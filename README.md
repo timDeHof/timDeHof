@@ -6,9 +6,9 @@
   </h1> 
 </div>
   
-
-### 👨‍💻 About Me 
-<table>
+<div id="me" align="center">
+  <h3>👨‍💻 About Me </h3>
+<table align="center" style="border:none">
   <tr>
     <td valign="center">
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Florida.
@@ -25,14 +25,15 @@
       <td>  
  <a href="https://app.daily.dev/timdehof"><img 
   src="https://github.com/timDeHof/timDeHof/blob/main/devcard.svg" width="300" alt="tim DeHof's Dev Card"/></a> 
-    </td>
-    
+    </td> 
   </tr>
-
 </table>
+</div>
 
-### 👋🏼 Connect With Me
-<div id="badges" align="left">
+
+
+<div id="badges" align="center">
+  <h3> 👋🏼 Connect With Me</h3>
   <a href="https://www.linkedin.com/in/timothy-dehof/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -48,10 +49,13 @@
   <a href="https://blog.timdehof.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge" />
   </a>
+  <a href="https://dev.to/timdehof">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Devto Badge" /> 
+  </a>  
 </div>
-
-### :hammer_and_wrench: Languages and Tools 
-<table valign="center">
+<div id="skills" align="center">
+  <h3>:hammer_and_wrench: Skills </h3>
+<table align="center">
 <tr>
   <td>📋 Languages</td>
   <td>
@@ -101,8 +105,10 @@
     </td>
 </tr>
 </table>
+</div>
+<div id="Education" align="center">
+<h3>:book: Education</h3>
 
-### :book: Education
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/zero_to_mastery-2B283A?style=for-the-badge&logo=zero_to_mastery&logoColor=white" /></td>
@@ -154,8 +160,11 @@
     </td>
   </tr>
 </table>
+</div>
 
-### 👇 My Latest Blog Posts 👇
+<div id="blogPosts" align="center">
+<h3> 👇 My Latest Blog Posts 👇</h3>
+  
 <!-- BLOG-POST-LIST:START -->
 - [Unleash the Power of Java: A JavaScript Developer&#39;s Guide to Best Practices in Java Development](https://dev.to/timdehof/unleash-the-power-of-java-a-javascript-developers-guide-to-best-practices-in-java-development-37dm)
 - [From Mechanical Design Engineer to Fullstack Developer: My Journey and Lessons Learned](https://dev.to/timdehof/from-mechanical-design-engineer-to-fullstack-developer-my-journey-and-lessons-learned-2556)
@@ -163,8 +172,12 @@
 - [The Power of a Growth Mindset in Software Development: How to Embrace Challenges and Advance Your Career](https://dev.to/timdehof/the-power-of-a-growth-mindset-in-software-development-how-to-embrace-challenges-and-advance-your-career-122b)
 - [A Roadmap for Transferring Skills from Mechanical Design Engineering to Fullstack Development](https://dev.to/timdehof/a-roadmap-for-transferring-skills-from-mechanical-design-engineering-to-fullstack-development-5fbg)
 <!-- BLOG-POST-LIST:END -->
-
-### :zap: Recent Activity
+</div>
+<table>
+  <tr>
+    <td>
+    <div id="activity">
+  <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/timDeHof/timDeHof/pull/3) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
@@ -173,9 +186,19 @@
 4. ❌ Reopened PR [#2486](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2486) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 5. ❌ Closed PR [#2486](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2486) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
-
-### :fire: My Stats 
+</div>
+    </td>
+    <td>
+      <div id="stats">
+<h3 align="center"> :fire: My Stats </h3>
+  
 ![timDeHof's GitHub stats](https://github-readme-stats.vercel.app/api?username=timDeHof&theme=monokai&show_icons=true)
+  
+</div>
+    </td>
+  </tr>
+</table>
+
 <!--
 **timDeHof/timDeHof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
