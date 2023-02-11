@@ -165,6 +165,8 @@
 <div id="blogPosts" align="center">
 <h3> 👇 My Latest Blog Posts 👇</h3>
   
+<div align="left"> 
+  
 <!-- BLOG-POST-LIST:START -->
 - [Unleash the Power of Java: A JavaScript Developer&#39;s Guide to Best Practices in Java Development](https://dev.to/timdehof/unleash-the-power-of-java-a-javascript-developers-guide-to-best-practices-in-java-development-37dm)
 - [From Mechanical Design Engineer to Fullstack Developer: My Journey and Lessons Learned](https://dev.to/timdehof/from-mechanical-design-engineer-to-fullstack-developer-my-journey-and-lessons-learned-2556)
@@ -172,6 +174,9 @@
 - [The Power of a Growth Mindset in Software Development: How to Embrace Challenges and Advance Your Career](https://dev.to/timdehof/the-power-of-a-growth-mindset-in-software-development-how-to-embrace-challenges-and-advance-your-career-122b)
 - [A Roadmap for Transferring Skills from Mechanical Design Engineering to Fullstack Development](https://dev.to/timdehof/a-roadmap-for-transferring-skills-from-mechanical-design-engineering-to-fullstack-development-5fbg)
 <!-- BLOG-POST-LIST:END -->
+  
+  </div>
+  
 </div>
 <table>
   <tr>
