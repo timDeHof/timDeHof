@@ -67,24 +67,57 @@
 <!--END_SECTION:activity-->
 
 ### :book: Education
-![Zero to Mastery](https://img.shields.io/badge/zero_to_mastery-2B283A?style=for-the-badge&logo=zero_to_mastery&logoColor=white)
-- [Complete Web Developer in 2023: Zero to Mastery](https://academy.zerotomastery.io/courses/697434/certificate)
-
-![Fullstack Academy](https://img.shields.io/badge/fullstack_academy-2B283A?style=for-the-badge&logo=fullstack_academy&logoColor=white)
-- [Fullstack Academy Web Development Coding Bootcamp](https:www.fullstackacademy.com)
-
-![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-- [The Frontend Developer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (Completion: 43%)
-- [Learn CSS Grid for free](https://scrimba.com/learn/cssgrid) (Completion: 25%)
-
-![SoloLearn](https://img.shields.io/badge/sololearn-2B283A?style=for-the-badge&logo=sololearn&logoColor=white)
-- [React & Redux](https://www.sololearn.com/certificates/CT-3DICCPQQ)
-
-![Kaggle](https://img.shields.io/badge/kaggle-2B283A?style=for-the-badge&logo=kaggle&logoColor=white)
-- [Python](https://www.kaggle.com/learn/certification/timdehof/python) 
-
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-2B283A?style=for-the-badge&logo=freecodecamp&logoColor=white)
-- [Responsive Web Design](https://www.freecodecamp.org/certification/tdehof/responsive-web-design)
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/zero_to_mastery-2B283A?style=for-the-badge&logo=zero_to_mastery&logoColor=white" /></td>
+    <td>
+      <ul>
+        <li><a href="https://academy.zerotomastery.io/courses/697434/certificate">Complete Web Developer in 2023: Zero to Mastery</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/fullstack_academy-2B283A?style=for-the-badge&logo=fullstack_academy&logoColor=red"/></td>
+    <td>
+      <ul>
+        <li><a href="https:www.fullstackacademy.com">Fullstack Academy Web Development Coding Bootcamp</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white"/></td>
+    <td>
+      <ul>
+        <li><a href="https://www.codecademy.com/learn/paths/front-end-engineer-career-path">The Frontend Developer Career Path</a></li>
+        <li><a href="https://scrimba.com/learn/cssgrid">Learn CSS Grid for free</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/sololearn-2B283A?style=for-the-badge&logo=sololearn&logoColor=white"/></td>
+    <td>
+      <ul>
+        <li><a href="https://www.sololearn.com/certificates/CT-3DICCPQQ">React & Redux</a></li>  
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/kaggle-2B283A?style=for-the-badge&logo=kaggle&logoColor=white"/></td>
+    <td>
+      <ul>
+        <li><a href="https://www.kaggle.com/learn/certification/timdehof/python">Python</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Freecodecamp-2B283A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></td>
+    <td>
+      <ul>
+        <li><a href="https://www.freecodecamp.org/certification/tdehof/responsive-web-design">Responsive Web Design</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### :hammer_and_wrench: Languages and Tools 
 <table valign="center">
