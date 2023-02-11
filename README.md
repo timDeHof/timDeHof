@@ -52,7 +52,7 @@
   <td>📋 Languages</td>
   <td>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,java,md&perline=6" />
     </a>
   </td>
 <tr/>
@@ -60,7 +60,15 @@
   <td>🗄️ Databases</td>
    <td>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,prisma,postman" />
+      <img src="https://skillicons.dev/icons?i=postgres,prisma,postman&perline=6" />
+    </a>
+  </td>
+  </tr>
+  <tr>
+    <td> Libraries</td>
+    <td>
+     <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,materialui,sass,styledcomponents,emotion&perline=6" />   
     </a>
   </td>
   </tr>
@@ -68,7 +76,7 @@
   <td>📚 Frameworks</td>
   <td>
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express" />   
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,bootstrap,tailwind&perline=6" />   
     </a>
   </td>
   </tr>
@@ -76,7 +84,7 @@
   <td>:hammer: Tools</td>
   <td>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,github,heroku,netlify,vscode,webpack" />
+     <img src="https://skillicons.dev/icons?i=git,github,heroku,netlify,vscode,webpack,babel,jest&perline=6" />
     </a>
   </td>
   </tr>
@@ -84,7 +92,7 @@
     <td>:art: Design</td>
     <td>
       <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma" />
+      <img src="https://skillicons.dev/icons?i=figma&perline=6" />
       </a>
     </td>
 </tr>
