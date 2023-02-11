@@ -165,13 +165,18 @@
 <div id="blogPosts" align="center">
 <h3> 👇 My Latest Blog Posts 👇</h3>
   
-<!-- BLOG-POST-LIST:START -->
-- [Unleash the Power of Java: A JavaScript Developer&#39;s Guide to Best Practices in Java Development](https://dev.to/timdehof/unleash-the-power-of-java-a-javascript-developers-guide-to-best-practices-in-java-development-37dm)
-- [From Mechanical Design Engineer to Fullstack Developer: My Journey and Lessons Learned](https://dev.to/timdehof/from-mechanical-design-engineer-to-fullstack-developer-my-journey-and-lessons-learned-2556)
-- [How to deploy the Face Recognition API for free with Render - Alternative To Heroku](https://dev.to/timdehof/how-to-deploy-the-face-recognition-api-for-free-with-render-alternative-to-heroku-4m3o)
-- [The Power of a Growth Mindset in Software Development: How to Embrace Challenges and Advance Your Career](https://dev.to/timdehof/the-power-of-a-growth-mindset-in-software-development-how-to-embrace-challenges-and-advance-your-career-122b)
-- [A Roadmap for Transferring Skills from Mechanical Design Engineering to Fullstack Development](https://dev.to/timdehof/a-roadmap-for-transferring-skills-from-mechanical-design-engineering-to-fullstack-development-5fbg)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[Unleash the Power of Java: A JavaScript Developer&#39;s Guide to Best Practices in Java Development](https://dev.to/timdehof/unleash-the-power-of-java-a-javascript-developers-guide-to-best-practices-in-java-development-37dm)
+&lt;p&gt;As a JavaScript developer diving into the world of Java, I&#39;ve observed several keys differences i...[From Mechanical Design Engineer to Fullstack Developer: My Journey and Lessons Learned](https://dev.to/timdehof/from-mechanical-design-engineer-to-fullstack-developer-my-journey-and-lessons-learned-2556)
+&lt;h2&gt;
+  
+  
+  From the Halls of Mechanical Design to the Fields of Full-stack Development
+&lt;/h2&gt;
+
+&lt;p&gt;&lt;...[How to deploy the Face Recognition API for free with Render - Alternative To Heroku](https://dev.to/timdehof/how-to-deploy-the-face-recognition-api-for-free-with-render-alternative-to-heroku-4m3o)
+&lt;p&gt;This would benefit people doing ZTM Academy&#39;s &quot;Complete Web Developer in 2023: Zero to Mastery&quot; c...[The Power of a Growth Mindset in Software Development: How to Embrace Challenges and Advance Your Career](https://dev.to/timdehof/the-power-of-a-growth-mindset-in-software-development-how-to-embrace-challenges-and-advance-your-career-122b)
+&lt;p&gt;In today&#39;s fast-paced world of technology, having a growth mindset is a crucial aspect of success...[A Roadmap for Transferring Skills from Mechanical Design Engineering to Fullstack Development](https://dev.to/timdehof/a-roadmap-for-transferring-skills-from-mechanical-design-engineering-to-fullstack-development-5fbg)
+&lt;p&gt;As a mechanical design engineer, you have developed a wealth of knowledge and expertise that can...<!-- BLOG-POST-LIST:END -->
 </div>
 <table>
   <tr>
