@@ -1,28 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100">
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/timothy-dehof/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/timdehof">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://codepen.io/timdehof">
-        <img src="https://img.shields.io/badge/codepen-gray?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/></a>
-  <a href="https://www.polywork.com/timdehof">
-    <img src="https://img.shields.io/badge/Polywork-blue?style=for-the-badge&logo=polywork&logoColor=white" alt="Polywork Badge"/>
-  </a>
-</div>
-<div id="badges" >
-  <img src="https://komarev.com/ghpvc/?username=timDeHof&style=flat-square&color=blue" alt=""/>
   <h1>
     Hi there 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   </h1> 
 </div>
   
-  </div>  
 
 ### 👨‍💻 About Me :
 <table>
@@ -48,9 +31,22 @@
 
 </table>
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-dehof/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttdehof@gmail.com)
-***
-## My Latest Blog Posts 👇
+### 👋🏼 Connect With Me
+<div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/timothy-dehof/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/timdehof">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://codepen.io/timdehof">
+        <img src="https://img.shields.io/badge/codepen-gray?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/></a>
+  <a href="https://www.polywork.com/timdehof">
+    <img src="https://img.shields.io/badge/Polywork-blue?style=for-the-badge&logo=polywork&logoColor=white" alt="Polywork Badge"/>
+  </a>
+</div>
+
+### 👇 My Latest Blog Posts 👇
 <!-- BLOG-POST-LIST:START -->
 - [Unleash the Power of Java: A JavaScript Developer&#39;s Guide to Best Practices in Java Development](https://dev.to/timdehof/unleash-the-power-of-java-a-javascript-developers-guide-to-best-practices-in-java-development-37dm)
 - [From Mechanical Design Engineer to Fullstack Developer: My Journey and Lessons Learned](https://dev.to/timdehof/from-mechanical-design-engineer-to-fullstack-developer-my-journey-and-lessons-learned-2556)
@@ -60,7 +56,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-## :zap: Recent Activity
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/timDeHof/timDeHof/pull/3) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
@@ -70,8 +66,7 @@
 5. ❌ Closed PR [#2486](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2486) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
-***
-## :book: Education:
+### :book: Education:
 ![Zero to Mastery](https://img.shields.io/badge/zero_to_mastery-2B283A?style=for-the-badge&logo=zero_to_mastery&logoColor=white)
 - [Complete Web Developer in 2023: Zero to Mastery](https://academy.zerotomastery.io/courses/697434/certificate)
 
@@ -90,19 +85,38 @@
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-2B283A?style=for-the-badge&logo=freecodecamp&logoColor=white)
 - [Responsive Web Design](https://www.freecodecamp.org/certification/tdehof/responsive-web-design)
-### :hammer_and_wrench: Languages and Tools :
-#### 📋 Languages:
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,md)](https://skillicons.dev)
-#### 🗄️ Databases:
-[![My Skills](https://skillicons.dev/icons?i=postgres,prisma)](https://skillicons.dev)
-#### 📚 Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-#### :hammer: Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,heroku,netlify,vscode,webpack)](https://skillicons.dev)
-#### :art: Design:
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-***
+### :hammer_and_wrench: Languages and Tools :
+<table>
+<tr>
+  <td>📋 Languages</td>
+  <td>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css" />
+    </a>
+  </td>
+<tr/>
+  <tr>
+    <td>🗄️ Databases</td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src"https://skillicons.dev/icons?i=postgres,prisma" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+  <td>📚 Frameworks</td>
+    <td>[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)</td>
+  </tr>
+  <tr>
+  <td>:hammer: Tools</td>
+    <td>[![My Skills](https://skillicons.dev/icons?i=git,github,heroku,netlify,vscode,webpack)](https://skillicons.dev)</td>
+  </tr>
+  <tr>
+    <td>:art: Design</td>
+    <td>[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)</td>
+</tr>
+</table>
 
 ### :fire: My Stats :
 ![timDeHof's GitHub stats](https://github-readme-stats.vercel.app/api?username=timDeHof&theme=monokai&show_icons=true)
