@@ -17,6 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/timdehof"
-          template: "$title$url$newline$newline$description"
+          template: "[$title]($url)$newline$newline$description$newline"
           description_max_length: "100"
           remove_duplicates: "true"
