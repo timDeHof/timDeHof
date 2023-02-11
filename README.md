@@ -87,7 +87,7 @@
 - [Responsive Web Design](https://www.freecodecamp.org/certification/tdehof/responsive-web-design)
 
 ### :hammer_and_wrench: Languages and Tools :
-<table>
+<table valign="center">
 <tr>
   <td>📋 Languages</td>
   <td>
@@ -99,22 +99,34 @@
 <tr>
   <td>🗄️ Databases</td>
    <td>
-     <a href="https://skillicons.dev">
-       <img src"https://skillicons.dev/icons?i=postgres,prisma" />
-     </a>
-    </td>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,prisma,postman" />
+    </a>
+  </td>
   </tr>
   <tr>
   <td>📚 Frameworks</td>
-    <td>[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)</td>
+  <td>
+     <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express" />   
+    </a>
+  </td>
   </tr>
   <tr>
   <td>:hammer: Tools</td>
-    <td>[![My Skills](https://skillicons.dev/icons?i=git,github,heroku,netlify,vscode,webpack)](https://skillicons.dev)</td>
+  <td>
+    <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=git,github,heroku,netlify,vscode,webpack" />
+    </a>
+  </td>
   </tr>
   <tr>
     <td>:art: Design</td>
-    <td>[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)</td>
+    <td>
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma" />
+      </a>
+    </td>
 </tr>
 </table>
 
