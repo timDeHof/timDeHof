@@ -7,7 +7,7 @@
 </div>
   
 
-### 👨‍💻 About Me :
+### 👨‍💻 About Me 
 <table>
   <tr>
     <td valign="center">
@@ -66,7 +66,7 @@
 5. ❌ Closed PR [#2486](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2486) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
-### :book: Education:
+### :book: Education
 ![Zero to Mastery](https://img.shields.io/badge/zero_to_mastery-2B283A?style=for-the-badge&logo=zero_to_mastery&logoColor=white)
 - [Complete Web Developer in 2023: Zero to Mastery](https://academy.zerotomastery.io/courses/697434/certificate)
 
@@ -86,7 +86,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-2B283A?style=for-the-badge&logo=freecodecamp&logoColor=white)
 - [Responsive Web Design](https://www.freecodecamp.org/certification/tdehof/responsive-web-design)
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 <table valign="center">
 <tr>
   <td>📋 Languages</td>
@@ -130,7 +130,7 @@
 </tr>
 </table>
 
-### :fire: My Stats :
+### :fire: My Stats 
 ![timDeHof's GitHub stats](https://github-readme-stats.vercel.app/api?username=timDeHof&theme=monokai&show_icons=true)
 <!--
 **timDeHof/timDeHof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
