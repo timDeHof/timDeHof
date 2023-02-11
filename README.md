@@ -96,12 +96,12 @@
     </a>
   </td>
 <tr/>
-  <tr>
-    <td>🗄️ Databases</td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src"https://skillicons.dev/icons?i=postgres,prisma" />
-      </a>
+<tr>
+  <td>🗄️ Databases</td>
+   <td>
+     <a href="https://skillicons.dev">
+       <img src"https://skillicons.dev/icons?i=postgres,prisma" />
+     </a>
     </td>
   </tr>
   <tr>
