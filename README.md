@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#72](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/72) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-2. ❗️ Opened issue [#71](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/71) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-3. ❗️ Opened issue [#70](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/70) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-4. ❗️ Closed issue [#1](https://github.com/timDeHof/movie-watchlist/issues/1) in [timDeHof/movie-watchlist](https://github.com/timDeHof/movie-watchlist)
-5. 💪 Opened PR [#4799](https://github.com/EddieHubCommunity/LinkFree/pull/4799) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 💪 Opened PR [#73](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/73) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+2. ❗️ Opened issue [#72](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/72) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+3. ❗️ Opened issue [#71](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/71) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+4. ❗️ Opened issue [#70](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/70) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+5. ❗️ Closed issue [#1](https://github.com/timDeHof/movie-watchlist/issues/1) in [timDeHof/movie-watchlist](https://github.com/timDeHof/movie-watchlist)
 <!--END_SECTION:activity-->
 </div>
     </td>
