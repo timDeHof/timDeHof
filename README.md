@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/timDeHof/movie-watchlist/issues/1) in [timDeHof/movie-watchlist](https://github.com/timDeHof/movie-watchlist)
-2. 💪 Opened PR [#4799](https://github.com/EddieHubCommunity/LinkFree/pull/4799) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#4765](https://github.com/EddieHubCommunity/LinkFree/pull/4765) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🎉 Merged PR [#1](https://github.com/timDeHof/LinkFree/pull/1) in [timDeHof/LinkFree](https://github.com/timDeHof/LinkFree)
-5. 💪 Opened PR [#1](https://github.com/timDeHof/LinkFree/pull/1) in [timDeHof/LinkFree](https://github.com/timDeHof/LinkFree)
+1. ❗️ Opened issue [#70](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/70) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+2. ❗️ Closed issue [#1](https://github.com/timDeHof/movie-watchlist/issues/1) in [timDeHof/movie-watchlist](https://github.com/timDeHof/movie-watchlist)
+3. 💪 Opened PR [#4799](https://github.com/EddieHubCommunity/LinkFree/pull/4799) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#4765](https://github.com/EddieHubCommunity/LinkFree/pull/4765) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🎉 Merged PR [#1](https://github.com/timDeHof/LinkFree/pull/1) in [timDeHof/LinkFree](https://github.com/timDeHof/LinkFree)
 <!--END_SECTION:activity-->
 </div>
     </td>
