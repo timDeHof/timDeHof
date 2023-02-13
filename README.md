@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#72](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/72) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-2. 🎉 Merged PR [#74](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/74) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-3. 💪 Opened PR [#74](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/74) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-4. ❗️ Reopened issue [#72](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/72) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-5. ❗️ Closed issue [#72](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/72) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+1. ❗️ Closed issue [#70](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/70) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+2. 🎉 Merged PR [#75](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/75) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+3. 💪 Opened PR [#75](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/75) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+4. ❗️ Closed issue [#72](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/72) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+5. 🎉 Merged PR [#74](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/74) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
 <!--END_SECTION:activity-->
 </div>
     </td>
