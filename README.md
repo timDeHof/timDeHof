@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/profydev/prolog-app-timDeHof/pull/35) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-2. 🎉 Merged PR [#4](https://github.com/timDeHof/facerecognitionbrain/pull/4) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
-3. 💪 Opened PR [#4](https://github.com/timDeHof/facerecognitionbrain/pull/4) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
-4. 🎉 Merged PR [#3](https://github.com/timDeHof/timDeHof/pull/3) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
-5. 💪 Opened PR [#3](https://github.com/timDeHof/timDeHof/pull/3) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
+1. 🎉 Merged PR [#1](https://github.com/timDeHof/LinkFree/pull/1) in [timDeHof/LinkFree](https://github.com/timDeHof/LinkFree)
+2. 💪 Opened PR [#1](https://github.com/timDeHof/LinkFree/pull/1) in [timDeHof/LinkFree](https://github.com/timDeHof/LinkFree)
+3. 💪 Opened PR [#35](https://github.com/profydev/prolog-app-timDeHof/pull/35) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+4. 🎉 Merged PR [#4](https://github.com/timDeHof/facerecognitionbrain/pull/4) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
+5. 💪 Opened PR [#4](https://github.com/timDeHof/facerecognitionbrain/pull/4) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
 <!--END_SECTION:activity-->
 </div>
     </td>
