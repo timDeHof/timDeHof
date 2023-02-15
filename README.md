@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#78](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/78) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-2. 🎉 Merged PR [#77](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/77) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-3. 💪 Opened PR [#77](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/77) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-4. ❗️ Closed issue [#6](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/6) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-5. ❗️ Closed issue [#16](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/16) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+1. ❗️ Opened issue [#79](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/79) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+2. ❗️ Opened issue [#78](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/78) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+3. 🎉 Merged PR [#77](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/77) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+4. 💪 Opened PR [#77](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/77) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+5. ❗️ Closed issue [#6](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/6) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
 <!--END_SECTION:activity-->
 </div>
     </td>
