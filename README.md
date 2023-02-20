@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#79](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/79) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-2. ❗️ Opened issue [#78](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/78) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-3. 🎉 Merged PR [#77](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/77) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-4. 💪 Opened PR [#77](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/77) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-5. ❗️ Closed issue [#6](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/6) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+1. 💪 Opened PR [#36](https://github.com/profydev/prolog-app-timDeHof/pull/36) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+2. ❌ Closed PR [#35](https://github.com/profydev/prolog-app-timDeHof/pull/35) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+3. ❗️ Opened issue [#79](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/79) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+4. ❗️ Opened issue [#78](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/78) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+5. 🎉 Merged PR [#77](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/77) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
 <!--END_SECTION:activity-->
 </div>
     </td>
