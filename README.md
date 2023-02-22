@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/profydev/prolog-app-timDeHof/pull/37) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-2. 🎉 Merged PR [#36](https://github.com/profydev/prolog-app-timDeHof/pull/36) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-3. 🗣 Commented on [#36](https://github.com/profydev/prolog-app-timDeHof/issues/36) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-4. 💪 Opened PR [#36](https://github.com/profydev/prolog-app-timDeHof/pull/36) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-5. ❌ Closed PR [#35](https://github.com/profydev/prolog-app-timDeHof/pull/35) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+1. 🎉 Merged PR [#37](https://github.com/profydev/prolog-app-timDeHof/pull/37) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+2. 💪 Opened PR [#37](https://github.com/profydev/prolog-app-timDeHof/pull/37) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+3. 🎉 Merged PR [#36](https://github.com/profydev/prolog-app-timDeHof/pull/36) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+4. 🗣 Commented on [#36](https://github.com/profydev/prolog-app-timDeHof/issues/36) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+5. 💪 Opened PR [#36](https://github.com/profydev/prolog-app-timDeHof/pull/36) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
 <!--END_SECTION:activity-->
 </div>
     </td>
