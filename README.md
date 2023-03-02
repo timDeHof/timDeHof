@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/MicrosoftDocs/mslearn-dotnet-files/pull/6) in [MicrosoftDocs/mslearn-dotnet-files](https://github.com/MicrosoftDocs/mslearn-dotnet-files)
-2. 🎉 Merged PR [#38](https://github.com/profydev/prolog-app-timDeHof/pull/38) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-3. 💪 Opened PR [#38](https://github.com/profydev/prolog-app-timDeHof/pull/38) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-4. 🎉 Merged PR [#37](https://github.com/profydev/prolog-app-timDeHof/pull/37) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-5. 💪 Opened PR [#37](https://github.com/profydev/prolog-app-timDeHof/pull/37) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+1. 💪 Opened PR [#39](https://github.com/profydev/prolog-app-timDeHof/pull/39) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+2. ❌ Closed PR [#6](https://github.com/MicrosoftDocs/mslearn-dotnet-files/pull/6) in [MicrosoftDocs/mslearn-dotnet-files](https://github.com/MicrosoftDocs/mslearn-dotnet-files)
+3. 🎉 Merged PR [#38](https://github.com/profydev/prolog-app-timDeHof/pull/38) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+4. 💪 Opened PR [#38](https://github.com/profydev/prolog-app-timDeHof/pull/38) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+5. 🎉 Merged PR [#37](https://github.com/profydev/prolog-app-timDeHof/pull/37) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
 <!--END_SECTION:activity-->
 </div>
     </td>
