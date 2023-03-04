@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/profydev/prolog-app-timDeHof/pull/39) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-2. ❌ Closed PR [#6](https://github.com/MicrosoftDocs/mslearn-dotnet-files/pull/6) in [MicrosoftDocs/mslearn-dotnet-files](https://github.com/MicrosoftDocs/mslearn-dotnet-files)
-3. 🎉 Merged PR [#38](https://github.com/profydev/prolog-app-timDeHof/pull/38) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-4. 💪 Opened PR [#38](https://github.com/profydev/prolog-app-timDeHof/pull/38) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-5. 🎉 Merged PR [#37](https://github.com/profydev/prolog-app-timDeHof/pull/37) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+1. ❗️ Opened issue [#9](https://github.com/timDeHof/movies-watchlist-react/issues/9) in [timDeHof/movies-watchlist-react](https://github.com/timDeHof/movies-watchlist-react)
+2. ❗️ Opened issue [#80](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/80) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+3. ❗️ Opened issue [#3](https://github.com/timDeHof/PawnShop-Galaxy2/issues/3) in [timDeHof/PawnShop-Galaxy2](https://github.com/timDeHof/PawnShop-Galaxy2)
+4. ❗️ Opened issue [#2](https://github.com/timDeHof/PawnShop-Galaxy2/issues/2) in [timDeHof/PawnShop-Galaxy2](https://github.com/timDeHof/PawnShop-Galaxy2)
+5. ❗️ Opened issue [#1](https://github.com/timDeHof/PawnShop-Galaxy2/issues/1) in [timDeHof/PawnShop-Galaxy2](https://github.com/timDeHof/PawnShop-Galaxy2)
 <!--END_SECTION:activity-->
 </div>
     </td>
