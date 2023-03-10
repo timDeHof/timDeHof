@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/profydev/prolog-app-timDeHof/pull/39) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-2. 🗣 Commented on [#39](https://github.com/profydev/prolog-app-timDeHof/issues/39) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-3. ❗️ Opened issue [#9](https://github.com/timDeHof/movies-watchlist-react/issues/9) in [timDeHof/movies-watchlist-react](https://github.com/timDeHof/movies-watchlist-react)
-4. ❗️ Opened issue [#80](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/80) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-5. ❗️ Opened issue [#3](https://github.com/timDeHof/PawnShop-Galaxy2/issues/3) in [timDeHof/PawnShop-Galaxy2](https://github.com/timDeHof/PawnShop-Galaxy2)
+1. 🎉 Merged PR [#41](https://github.com/profydev/prolog-app-timDeHof/pull/41) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+2. 💪 Opened PR [#41](https://github.com/profydev/prolog-app-timDeHof/pull/41) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+3. 🎉 Merged PR [#40](https://github.com/profydev/prolog-app-timDeHof/pull/40) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+4. 💪 Opened PR [#40](https://github.com/profydev/prolog-app-timDeHof/pull/40) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+5. 🎉 Merged PR [#39](https://github.com/profydev/prolog-app-timDeHof/pull/39) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
 <!--END_SECTION:activity-->
 </div>
     </td>
