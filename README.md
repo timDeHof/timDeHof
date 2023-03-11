@@ -168,11 +168,11 @@
 <div align="left"> 
   
 <!-- BLOG-POST-LIST:START -->
+- [Unraveling the Mystery of an Empty API Response in Axios: A Debugging Adventure](https://dev.to/timdehof/unraveling-the-mystery-of-an-empty-api-response-in-axios-a-debugging-adventure-3k70)
 - [Unleash the Power of Java: A JavaScript Developer&#39;s Guide to Best Practices in Java Development](https://dev.to/timdehof/unleash-the-power-of-java-a-javascript-developers-guide-to-best-practices-in-java-development-37dm)
 - [From Mechanical Design Engineer to Fullstack Developer: My Journey and Lessons Learned](https://dev.to/timdehof/from-mechanical-design-engineer-to-fullstack-developer-my-journey-and-lessons-learned-2556)
 - [How to deploy the Face Recognition API for free with Render - Alternative To Heroku](https://dev.to/timdehof/how-to-deploy-the-face-recognition-api-for-free-with-render-alternative-to-heroku-4m3o)
 - [The Power of a Growth Mindset in Software Development: How to Embrace Challenges and Advance Your Career](https://dev.to/timdehof/the-power-of-a-growth-mindset-in-software-development-how-to-embrace-challenges-and-advance-your-career-122b)
-- [A Roadmap for Transferring Skills from Mechanical Design Engineering to Fullstack Development](https://dev.to/timdehof/a-roadmap-for-transferring-skills-from-mechanical-design-engineering-to-fullstack-development-5fbg)
 <!-- BLOG-POST-LIST:END -->
   
   </div>
