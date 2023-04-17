@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#83](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/83) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-2. 🎉 Merged PR [#47](https://github.com/profydev/prolog-app-timDeHof/pull/47) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-3. 💪 Opened PR [#47](https://github.com/profydev/prolog-app-timDeHof/pull/47) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-4. 🎉 Merged PR [#46](https://github.com/profydev/prolog-app-timDeHof/pull/46) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-5. 💪 Opened PR [#46](https://github.com/profydev/prolog-app-timDeHof/pull/46) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+1. ❗️ Opened issue [#1](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/1) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
+2. ❗️ Opened issue [#83](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/83) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+3. 🎉 Merged PR [#47](https://github.com/profydev/prolog-app-timDeHof/pull/47) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+4. 💪 Opened PR [#47](https://github.com/profydev/prolog-app-timDeHof/pull/47) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+5. 🎉 Merged PR [#46](https://github.com/profydev/prolog-app-timDeHof/pull/46) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
 <!--END_SECTION:activity-->
 </div>
     </td>
