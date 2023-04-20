@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/timDeHof/PawnShop-Galaxyv2.0/pull/9) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
-2. 💪 Opened PR [#9](https://github.com/timDeHof/PawnShop-Galaxyv2.0/pull/9) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
-3. ❌ Closed PR [#8](https://github.com/timDeHof/PawnShop-Galaxyv2.0/pull/8) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
-4. 💪 Opened PR [#8](https://github.com/timDeHof/PawnShop-Galaxyv2.0/pull/8) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
-5. ❗️ Opened issue [#7](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/7) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
+1. ❗️ Closed issue [#7](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/7) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
+2. 🎉 Merged PR [#9](https://github.com/timDeHof/PawnShop-Galaxyv2.0/pull/9) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
+3. 💪 Opened PR [#9](https://github.com/timDeHof/PawnShop-Galaxyv2.0/pull/9) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
+4. ❌ Closed PR [#8](https://github.com/timDeHof/PawnShop-Galaxyv2.0/pull/8) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
+5. 💪 Opened PR [#8](https://github.com/timDeHof/PawnShop-Galaxyv2.0/pull/8) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
 <!--END_SECTION:activity-->
 </div>
     </td>
