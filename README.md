@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/34) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
-2. ❗️ Closed issue [#10](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/10) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
-3. 🗣 Commented on [#10](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/10) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
-4. ❗️ Closed issue [#18](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/18) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
-5. 🎉 Merged PR [#33](https://github.com/timDeHof/PawnShop-Galaxyv2.0/pull/33) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
+1. ❗️ Closed issue [#2](https://github.com/timDeHof/Mysimplefolio/issues/2) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+2. 🎉 Merged PR [#3](https://github.com/timDeHof/Mysimplefolio/pull/3) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+3. 💪 Opened PR [#3](https://github.com/timDeHof/Mysimplefolio/pull/3) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+4. ❗️ Opened issue [#2](https://github.com/timDeHof/Mysimplefolio/issues/2) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+5. ❗️ Opened issue [#1](https://github.com/timDeHof/Mysimplefolio/issues/1) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
