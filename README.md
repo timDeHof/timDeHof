@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/timDeHof/Mysimplefolio/pull/6) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
-2. ❗️ Closed issue [#5](https://github.com/timDeHof/Mysimplefolio/issues/5) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
-3. 💪 Opened PR [#6](https://github.com/timDeHof/Mysimplefolio/pull/6) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
-4. ❗️ Opened issue [#5](https://github.com/timDeHof/Mysimplefolio/issues/5) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
-5. 🎉 Merged PR [#4](https://github.com/timDeHof/Mysimplefolio/pull/4) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+1. ❗️ Opened issue [#48](https://github.com/profydev/prolog-app-timDeHof/issues/48) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
+2. 🎉 Merged PR [#6](https://github.com/timDeHof/Mysimplefolio/pull/6) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+3. ❗️ Closed issue [#5](https://github.com/timDeHof/Mysimplefolio/issues/5) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+4. 💪 Opened PR [#6](https://github.com/timDeHof/Mysimplefolio/pull/6) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+5. ❗️ Opened issue [#5](https://github.com/timDeHof/Mysimplefolio/issues/5) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
