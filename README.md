@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/timDeHof/movie-nextjs-app/issues/1) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
-2. 🎉 Merged PR [#1](https://github.com/timDeHof/advice-generator/pull/1) in [timDeHof/advice-generator](https://github.com/timDeHof/advice-generator)
-3. 💪 Opened PR [#1](https://github.com/timDeHof/advice-generator/pull/1) in [timDeHof/advice-generator](https://github.com/timDeHof/advice-generator)
-4. ❗️ Opened issue [#48](https://github.com/profydev/prolog-app-timDeHof/issues/48) in [profydev/prolog-app-timDeHof](https://github.com/profydev/prolog-app-timDeHof)
-5. 🎉 Merged PR [#6](https://github.com/timDeHof/Mysimplefolio/pull/6) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+1. 🎉 Merged PR [#3](https://github.com/timDeHof/movie-nextjs-app/pull/3) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+2. 💪 Opened PR [#3](https://github.com/timDeHof/movie-nextjs-app/pull/3) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+3. ❗️ Closed issue [#1](https://github.com/timDeHof/movie-nextjs-app/issues/1) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+4. 🎉 Merged PR [#2](https://github.com/timDeHof/movie-nextjs-app/pull/2) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+5. 💪 Opened PR [#2](https://github.com/timDeHof/movie-nextjs-app/pull/2) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
 <!--END_SECTION:activity-->
 </div>
     </td>
