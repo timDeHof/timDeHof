@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/timDeHof/movie-nextjs-app/issues/17) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
-2. ❗️ Closed issue [#15](https://github.com/timDeHof/movie-nextjs-app/issues/15) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
-3. 🎉 Merged PR [#16](https://github.com/timDeHof/movie-nextjs-app/pull/16) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
-4. 💪 Opened PR [#16](https://github.com/timDeHof/movie-nextjs-app/pull/16) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
-5. ❗️ Opened issue [#15](https://github.com/timDeHof/movie-nextjs-app/issues/15) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+1. ❗️ Closed issue [#17](https://github.com/timDeHof/movie-nextjs-app/issues/17) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+2. 🎉 Merged PR [#18](https://github.com/timDeHof/movie-nextjs-app/pull/18) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+3. 💪 Opened PR [#18](https://github.com/timDeHof/movie-nextjs-app/pull/18) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+4. ❗️ Opened issue [#17](https://github.com/timDeHof/movie-nextjs-app/issues/17) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+5. ❗️ Closed issue [#15](https://github.com/timDeHof/movie-nextjs-app/issues/15) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
 <!--END_SECTION:activity-->
 </div>
     </td>
