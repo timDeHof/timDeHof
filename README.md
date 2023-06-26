@@ -185,11 +185,11 @@
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/timDeHof/LinkFree/pull/2) in [timDeHof/LinkFree](https://github.com/timDeHof/LinkFree)
-2. 💪 Opened PR [#2](https://github.com/timDeHof/LinkFree/pull/2) in [timDeHof/LinkFree](https://github.com/timDeHof/LinkFree)
-3. ❗️ Opened issue [#5](https://github.com/timDeHof/timdehof.dev/issues/5) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
-4. ❗️ Closed issue [#3](https://github.com/timDeHof/timdehof.dev/issues/3) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
-5. 🎉 Merged PR [#4](https://github.com/timDeHof/timdehof.dev/pull/4) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
+1. 🗣 Commented on [#7796](https://github.com/EddieHubCommunity/LinkFree/issues/7796) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 💪 Opened PR [#7796](https://github.com/EddieHubCommunity/LinkFree/pull/7796) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🎉 Merged PR [#2](https://github.com/timDeHof/LinkFree/pull/2) in [timDeHof/LinkFree](https://github.com/timDeHof/LinkFree)
+4. 💪 Opened PR [#2](https://github.com/timDeHof/LinkFree/pull/2) in [timDeHof/LinkFree](https://github.com/timDeHof/LinkFree)
+5. ❗️ Opened issue [#5](https://github.com/timDeHof/timdehof.dev/issues/5) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
 <!--END_SECTION:activity-->
 </div>
     </td>
