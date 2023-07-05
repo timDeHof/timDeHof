@@ -13,8 +13,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Hashnode Blog
+        # You may pin to the exact commit or the version.
+        # uses: varunsridharan/action-hashnode-blog@38936ff46f6ae78dcc6c8116d5db96a8bc7bad94
+        uses: varunsridharan/action-hashnode-blog@1.2
         with:
-          feed_list: "https://dev.to/feed/timdehof"
-          remove_duplicates: "true"
+          # Set it to GIST if you are using this for a pinned gists
+          TYPE: REPOSITORY
+          # Provide your custom blog url. or leave it empty to auto generate
+          BLOG_URL: 'https://blog.timdehof.dev/'
+          # Provide GIST ID if Type is Set To Gists or provide a valid file location
+          FILE: README.md
+          # Your Hashnode Username
+          USERNAME: 'ttdehof'
+          # Provide Which Style You Need
+          STYLE: "blog-alternate"
+          # No of Latest Post To Show
+          COUNT: 6
+
