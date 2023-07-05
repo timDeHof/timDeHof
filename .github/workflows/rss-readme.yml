@@ -30,4 +30,6 @@ jobs:
           STYLE: "blog-alternate"
           # No of Latest Post To Show
           COUNT: 6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
