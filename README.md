@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/timDeHof/timdehof.dev/issues/5) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
-2. 🎉 Merged PR [#6](https://github.com/timDeHof/timdehof.dev/pull/6) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
-3. 💪 Opened PR [#6](https://github.com/timDeHof/timdehof.dev/pull/6) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
-4. 🗣 Commented on [#7796](https://github.com/EddieHubCommunity/LinkFree/issues/7796) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 💪 Opened PR [#7796](https://github.com/EddieHubCommunity/LinkFree/pull/7796) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🎉 Merged PR [#6](https://github.com/timDeHof/timDeHof/pull/6) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
+2. 🎉 Merged PR [#5](https://github.com/timDeHof/timDeHof/pull/5) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
+3. 🔒 Closed issue [#5](https://github.com/timDeHof/timdehof.dev/issues/5) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
+4. 🎉 Merged PR [#6](https://github.com/timDeHof/timdehof.dev/pull/6) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
+5. 💪 Opened PR [#6](https://github.com/timDeHof/timdehof.dev/pull/6) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
 <!--END_SECTION:activity-->
 </div>
     </td>
