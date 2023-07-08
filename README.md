@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20](https://github.com/timDeHof/notebook-website/issues/20) in [timDeHof/notebook-website](https://github.com/timDeHof/notebook-website)
-2. ❗ Opened issue [#19](https://github.com/timDeHof/notebook-website/issues/19) in [timDeHof/notebook-website](https://github.com/timDeHof/notebook-website)
-3. ❗ Opened issue [#18](https://github.com/timDeHof/notebook-website/issues/18) in [timDeHof/notebook-website](https://github.com/timDeHof/notebook-website)
-4. ❗ Opened issue [#17](https://github.com/timDeHof/notebook-website/issues/17) in [timDeHof/notebook-website](https://github.com/timDeHof/notebook-website)
-5. ❗ Opened issue [#16](https://github.com/timDeHof/notebook-website/issues/16) in [timDeHof/notebook-website](https://github.com/timDeHof/notebook-website)
+1. ❗ Opened issue [#21](https://github.com/timDeHof/notebook-website/issues/21) in [timDeHof/notebook-website](https://github.com/timDeHof/notebook-website)
+2. ❗ Opened issue [#20](https://github.com/timDeHof/notebook-website/issues/20) in [timDeHof/notebook-website](https://github.com/timDeHof/notebook-website)
+3. ❗ Opened issue [#19](https://github.com/timDeHof/notebook-website/issues/19) in [timDeHof/notebook-website](https://github.com/timDeHof/notebook-website)
+4. ❗ Opened issue [#18](https://github.com/timDeHof/notebook-website/issues/18) in [timDeHof/notebook-website](https://github.com/timDeHof/notebook-website)
+5. ❗ Opened issue [#17](https://github.com/timDeHof/notebook-website/issues/17) in [timDeHof/notebook-website](https://github.com/timDeHof/notebook-website)
 <!--END_SECTION:activity-->
 </div>
     </td>
