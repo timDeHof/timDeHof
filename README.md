@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/timDeHof/facerecognitionbrain/pull/8) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
-2. ❌ Closed PR [#7](https://github.com/timDeHof/facerecognitionbrain/pull/7) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
-3. 💪 Opened PR [#7](https://github.com/timDeHof/facerecognitionbrain/pull/7) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
-4. ❌ Closed PR [#6](https://github.com/timDeHof/facerecognitionbrain/pull/6) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
-5. 💪 Opened PR [#6](https://github.com/timDeHof/facerecognitionbrain/pull/6) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
+1. ❗ Opened issue [#10](https://github.com/timDeHof/facerecognitionbrain/issues/10) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
+2. ❗ Opened issue [#9](https://github.com/timDeHof/facerecognitionbrain/issues/9) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
+3. ❌ Closed PR [#8](https://github.com/timDeHof/facerecognitionbrain/pull/8) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
+4. 💪 Opened PR [#8](https://github.com/timDeHof/facerecognitionbrain/pull/8) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
+5. ❌ Closed PR [#7](https://github.com/timDeHof/facerecognitionbrain/pull/7) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
 <!--END_SECTION:activity-->
 </div>
     </td>
