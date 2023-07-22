@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/timDeHof/facerecognitionbrain-api/issues/2) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
-2. 🎉 Merged PR [#3](https://github.com/timDeHof/facerecognitionbrain-api/pull/3) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
-3. 💪 Opened PR [#3](https://github.com/timDeHof/facerecognitionbrain-api/pull/3) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
-4. ❗ Opened issue [#2](https://github.com/timDeHof/facerecognitionbrain-api/issues/2) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
-5. ❗ Opened issue [#10](https://github.com/timDeHof/facerecognitionbrain/issues/10) in [timDeHof/facerecognitionbrain](https://github.com/timDeHof/facerecognitionbrain)
+1. ❗ Opened issue [#4](https://github.com/timDeHof/facerecognitionbrain-api/issues/4) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
+2. 🔒 Closed issue [#2](https://github.com/timDeHof/facerecognitionbrain-api/issues/2) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
+3. 🎉 Merged PR [#3](https://github.com/timDeHof/facerecognitionbrain-api/pull/3) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
+4. 💪 Opened PR [#3](https://github.com/timDeHof/facerecognitionbrain-api/pull/3) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
+5. ❗ Opened issue [#2](https://github.com/timDeHof/facerecognitionbrain-api/issues/2) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
 <!--END_SECTION:activity-->
 </div>
     </td>
