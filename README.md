@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/timDeHof/facerecognitionbrain-api/issues/6) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
-2. 🔒 Closed issue [#4](https://github.com/timDeHof/facerecognitionbrain-api/issues/4) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
-3. 🎉 Merged PR [#5](https://github.com/timDeHof/facerecognitionbrain-api/pull/5) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
-4. 💪 Opened PR [#5](https://github.com/timDeHof/facerecognitionbrain-api/pull/5) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
-5. ❗ Opened issue [#4](https://github.com/timDeHof/facerecognitionbrain-api/issues/4) in [timDeHof/facerecognitionbrain-api](https://github.com/timDeHof/facerecognitionbrain-api)
+1. ❗ Opened issue [#10](https://github.com/timDeHof/3D-portfolio/issues/10) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
+2. ❗ Opened issue [#9](https://github.com/timDeHof/3D-portfolio/issues/9) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
+3. ❗ Opened issue [#8](https://github.com/timDeHof/3D-portfolio/issues/8) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
+4. ❗ Opened issue [#7](https://github.com/timDeHof/3D-portfolio/issues/7) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
+5. ❗ Opened issue [#6](https://github.com/timDeHof/3D-portfolio/issues/6) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
