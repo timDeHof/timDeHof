@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/timDeHof/3D-portfolio/issues/4) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
-2. 🎉 Merged PR [#12](https://github.com/timDeHof/3D-portfolio/pull/12) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
-3. 💪 Opened PR [#12](https://github.com/timDeHof/3D-portfolio/pull/12) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
-4. 🔒 Closed issue [#1](https://github.com/timDeHof/3D-portfolio/issues/1) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
-5. 🎉 Merged PR [#11](https://github.com/timDeHof/3D-portfolio/pull/11) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
+1. 🔒 Closed issue [#5](https://github.com/timDeHof/3D-portfolio/issues/5) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
+2. 🎉 Merged PR [#13](https://github.com/timDeHof/3D-portfolio/pull/13) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
+3. 💪 Opened PR [#13](https://github.com/timDeHof/3D-portfolio/pull/13) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
+4. 🔒 Closed issue [#4](https://github.com/timDeHof/3D-portfolio/issues/4) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
+5. 🎉 Merged PR [#12](https://github.com/timDeHof/3D-portfolio/pull/12) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
