@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/timDeHof/dehottui/issues/1) in [timDeHof/dehottui](https://github.com/timDeHof/dehottui)
-2. ❗ Opened issue [#20](https://github.com/timDeHof/3D-portfolio/issues/20) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
-3. 🎉 Merged PR [#19](https://github.com/timDeHof/3D-portfolio/pull/19) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
-4. 💪 Opened PR [#19](https://github.com/timDeHof/3D-portfolio/pull/19) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
-5. 🎉 Merged PR [#18](https://github.com/timDeHof/3D-portfolio/pull/18) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
+1. 🔒 Closed issue [#1](https://github.com/timDeHof/dehottui/issues/1) in [timDeHof/dehottui](https://github.com/timDeHof/dehottui)
+2. 🎉 Merged PR [#2](https://github.com/timDeHof/dehottui/pull/2) in [timDeHof/dehottui](https://github.com/timDeHof/dehottui)
+3. 💪 Opened PR [#2](https://github.com/timDeHof/dehottui/pull/2) in [timDeHof/dehottui](https://github.com/timDeHof/dehottui)
+4. ❗ Opened issue [#1](https://github.com/timDeHof/dehottui/issues/1) in [timDeHof/dehottui](https://github.com/timDeHof/dehottui)
+5. ❗ Opened issue [#20](https://github.com/timDeHof/3D-portfolio/issues/20) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
