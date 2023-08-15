@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/timDeHof/Mysimplefolio/issues/8) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
-2. ❗ Opened issue [#3](https://github.com/timDeHof/dehottui/issues/3) in [timDeHof/dehottui](https://github.com/timDeHof/dehottui)
-3. 🔒 Closed issue [#1](https://github.com/timDeHof/dehottui/issues/1) in [timDeHof/dehottui](https://github.com/timDeHof/dehottui)
-4. 🎉 Merged PR [#2](https://github.com/timDeHof/dehottui/pull/2) in [timDeHof/dehottui](https://github.com/timDeHof/dehottui)
-5. 💪 Opened PR [#2](https://github.com/timDeHof/dehottui/pull/2) in [timDeHof/dehottui](https://github.com/timDeHof/dehottui)
+1. ❗ Opened issue [#10](https://github.com/timDeHof/Mysimplefolio/issues/10) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+2. 🔒 Closed issue [#8](https://github.com/timDeHof/Mysimplefolio/issues/8) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+3. 🎉 Merged PR [#9](https://github.com/timDeHof/Mysimplefolio/pull/9) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+4. 💪 Opened PR [#9](https://github.com/timDeHof/Mysimplefolio/pull/9) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+5. ❗ Opened issue [#8](https://github.com/timDeHof/Mysimplefolio/issues/8) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
