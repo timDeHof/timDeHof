@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/timDeHof/next-3d-portfolio/issues/1) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
-2. ❗ Opened issue [#21](https://github.com/timDeHof/3D-portfolio/issues/21) in [timDeHof/3D-portfolio](https://github.com/timDeHof/3D-portfolio)
-3. 🔒 Closed issue [#10](https://github.com/timDeHof/Mysimplefolio/issues/10) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
-4. 🎉 Merged PR [#11](https://github.com/timDeHof/Mysimplefolio/pull/11) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
-5. 💪 Opened PR [#11](https://github.com/timDeHof/Mysimplefolio/pull/11) in [timDeHof/Mysimplefolio](https://github.com/timDeHof/Mysimplefolio)
+1. 🎉 Merged PR [#5](https://github.com/timDeHof/next-3d-portfolio/pull/5) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+2. 💪 Opened PR [#5](https://github.com/timDeHof/next-3d-portfolio/pull/5) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+3. 🎉 Merged PR [#4](https://github.com/timDeHof/next-3d-portfolio/pull/4) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+4. 💪 Opened PR [#4](https://github.com/timDeHof/next-3d-portfolio/pull/4) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+5. ❌ Closed PR [#3](https://github.com/timDeHof/next-3d-portfolio/pull/3) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
