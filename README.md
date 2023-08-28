@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/timDeHof/next-3d-portfolio/pull/37) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
-2. 💪 Opened PR [#37](https://github.com/timDeHof/next-3d-portfolio/pull/37) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
-3. 🎉 Merged PR [#36](https://github.com/timDeHof/next-3d-portfolio/pull/36) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
-4. 💪 Opened PR [#36](https://github.com/timDeHof/next-3d-portfolio/pull/36) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
-5. 🎉 Merged PR [#35](https://github.com/timDeHof/next-3d-portfolio/pull/35) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+1. ❗ Opened issue [#89](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/89) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+2. 🎉 Merged PR [#37](https://github.com/timDeHof/next-3d-portfolio/pull/37) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+3. 💪 Opened PR [#37](https://github.com/timDeHof/next-3d-portfolio/pull/37) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+4. 🎉 Merged PR [#36](https://github.com/timDeHof/next-3d-portfolio/pull/36) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+5. 💪 Opened PR [#36](https://github.com/timDeHof/next-3d-portfolio/pull/36) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
