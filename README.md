@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#89](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/89) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-2. 🎉 Merged PR [#37](https://github.com/timDeHof/next-3d-portfolio/pull/37) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
-3. 💪 Opened PR [#37](https://github.com/timDeHof/next-3d-portfolio/pull/37) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
-4. 🎉 Merged PR [#36](https://github.com/timDeHof/next-3d-portfolio/pull/36) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
-5. 💪 Opened PR [#36](https://github.com/timDeHof/next-3d-portfolio/pull/36) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+1. ❌ Closed PR [#84](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/84) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+2. 🔒 Closed issue [#89](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/89) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+3. 🎉 Merged PR [#90](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/90) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+4. 💪 Opened PR [#90](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/90) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+5. ❗ Opened issue [#89](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/89) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
 <!--END_SECTION:activity-->
 </div>
     </td>
