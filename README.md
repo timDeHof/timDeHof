@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/18) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
-2. ❌ Closed PR [#84](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/84) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-3. 🔒 Closed issue [#89](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/89) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-4. 🎉 Merged PR [#90](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/90) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
-5. 💪 Opened PR [#90](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/90) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+1. 🎉 Merged PR [#16](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/16) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
+2. 💪 Opened PR [#18](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/18) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
+3. ❌ Closed PR [#84](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/84) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+4. 🔒 Closed issue [#89](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/issues/89) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
+5. 🎉 Merged PR [#90](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy/pull/90) in [PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy](https://github.com/PawnShop-at-the-end-of-the-galaxy/PawnShop-Galaxy)
 <!--END_SECTION:activity-->
 </div>
     </td>
