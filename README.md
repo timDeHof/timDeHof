@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/22) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
-2. 💪 Opened PR [#22](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/22) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
-3. ❌ Closed PR [#21](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/21) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
-4. 💪 Opened PR [#21](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/21) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
-5. 🎉 Merged PR [#19](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/19) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
+1. 💪 Opened PR [#40](https://github.com/timDeHof/next-3d-portfolio/pull/40) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+2. 🎉 Merged PR [#39](https://github.com/timDeHof/next-3d-portfolio/pull/39) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+3. 💪 Opened PR [#39](https://github.com/timDeHof/next-3d-portfolio/pull/39) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+4. 🎉 Merged PR [#38](https://github.com/timDeHof/next-3d-portfolio/pull/38) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
+5. 💪 Opened PR [#38](https://github.com/timDeHof/next-3d-portfolio/pull/38) in [timDeHof/next-3d-portfolio](https://github.com/timDeHof/next-3d-portfolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
