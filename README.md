@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/26) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
-2. 🎉 Merged PR [#25](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/25) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
-3. 💪 Opened PR [#25](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/25) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
-4. ❌ Closed PR [#24](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/24) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
-5. 💪 Opened PR [#24](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/24) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
+1. 🎉 Merged PR [#26](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/26) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
+2. 💪 Opened PR [#26](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/26) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
+3. 🎉 Merged PR [#25](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/25) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
+4. 💪 Opened PR [#25](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/25) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
+5. ❌ Closed PR [#24](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/24) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
 <!--END_SECTION:activity-->
 </div>
     </td>
