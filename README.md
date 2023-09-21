@@ -171,7 +171,7 @@
 <p align="left">
 <a href="https://blog.timdehof.dev//reelwatch-movie-watchlist" title="ReelWatch:Movie Watchlist"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686534118330/593df75f-a64b-4745-8240-3b5a9cff4456.png" alt="ReelWatch:Movie Watchlist" width="250px" align="left" /></a>
 <a href="https://blog.timdehof.dev//reelwatch-movie-watchlist" title="ReelWatch:Movie Watchlist"><strong>ReelWatch:Movie Watchlist</strong></a>
-<div><strong>12 June 2023</strong> | <strong>Updated: 12 June 2023</strong></div>
+<div><strong>12 June 2023</strong> | <strong>Updated: 21 Sept 2023</strong></div>
 <br/> ReelWatch: Appwrite Hashnode Hackathon
 Team Details
 
