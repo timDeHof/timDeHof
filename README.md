@@ -221,11 +221,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/chingu-voyages/Handbook/pull/24) in [chingu-voyages/Handbook](https://github.com/chingu-voyages/Handbook)
-2. 🎉 Merged PR [#42](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/42) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
-3. 💪 Opened PR [#42](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/42) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
-4. 🎉 Merged PR [#41](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/41) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
-5. 💪 Opened PR [#41](https://github.com/chingu-voyages/v45-tier3-team-45OLD/pull/41) in [chingu-voyages/v45-tier3-team-45OLD](https://github.com/chingu-voyages/v45-tier3-team-45OLD)
+1. ❗ Opened issue [#44](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/44) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
+2. ❗ Opened issue [#43](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/43) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
+3. ❗ Opened issue [#42](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/42) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
+4. ❗ Opened issue [#41](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/41) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
+5. ❗ Opened issue [#40](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/40) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
 <!--END_SECTION:activity-->
 </div>
     </td>
