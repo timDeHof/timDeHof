@@ -227,10 +227,10 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#78](https://github.com/appwrite/website/issues/78) in [appwrite/website](https://github.com/appwrite/website)
-2. 💪 Opened PR [#32](https://github.com/zero-to-mastery/file-io/pull/32) in [zero-to-mastery/file-io](https://github.com/zero-to-mastery/file-io)
-3. 💪 Opened PR [#1769](https://github.com/zero-to-mastery/Animation-Nation/pull/1769) in [zero-to-mastery/Animation-Nation](https://github.com/zero-to-mastery/Animation-Nation)
-4. 🗣 Commented on [#78](https://github.com/appwrite/website/issues/78) in [appwrite/website](https://github.com/appwrite/website)
-5. 🗣 Commented on [#139](https://github.com/appwrite/website/issues/139) in [appwrite/website](https://github.com/appwrite/website)
+2. 🗣 Commented on [#78](https://github.com/appwrite/website/issues/78) in [appwrite/website](https://github.com/appwrite/website)
+3. 💪 Opened PR [#32](https://github.com/zero-to-mastery/file-io/pull/32) in [zero-to-mastery/file-io](https://github.com/zero-to-mastery/file-io)
+4. 💪 Opened PR [#1769](https://github.com/zero-to-mastery/Animation-Nation/pull/1769) in [zero-to-mastery/Animation-Nation](https://github.com/zero-to-mastery/Animation-Nation)
+5. 🗣 Commented on [#78](https://github.com/appwrite/website/issues/78) in [appwrite/website](https://github.com/appwrite/website)
 <!--END_SECTION:activity-->
 </div>
     </td>
