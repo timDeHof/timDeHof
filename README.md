@@ -226,11 +226,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#196](https://github.com/appwrite/website/pull/196) in [appwrite/website](https://github.com/appwrite/website)
-2. 🗣 Commented on [#78](https://github.com/appwrite/website/issues/78) in [appwrite/website](https://github.com/appwrite/website)
+1. 💪 Opened PR [#40](https://github.com/chingu-voyages/Handbook/pull/40) in [chingu-voyages/Handbook](https://github.com/chingu-voyages/Handbook)
+2. 💪 Opened PR [#196](https://github.com/appwrite/website/pull/196) in [appwrite/website](https://github.com/appwrite/website)
 3. 🗣 Commented on [#78](https://github.com/appwrite/website/issues/78) in [appwrite/website](https://github.com/appwrite/website)
-4. 💪 Opened PR [#32](https://github.com/zero-to-mastery/file-io/pull/32) in [zero-to-mastery/file-io](https://github.com/zero-to-mastery/file-io)
-5. 💪 Opened PR [#1769](https://github.com/zero-to-mastery/Animation-Nation/pull/1769) in [zero-to-mastery/Animation-Nation](https://github.com/zero-to-mastery/Animation-Nation)
+4. 🗣 Commented on [#78](https://github.com/appwrite/website/issues/78) in [appwrite/website](https://github.com/appwrite/website)
+5. 💪 Opened PR [#32](https://github.com/zero-to-mastery/file-io/pull/32) in [zero-to-mastery/file-io](https://github.com/zero-to-mastery/file-io)
 <!--END_SECTION:activity-->
 </div>
     </td>
