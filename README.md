@@ -224,11 +224,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/chingu-voyages/v46-tier2-team-19/pull/29) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
-2. 🎉 Merged PR [#28](https://github.com/chingu-voyages/v46-tier2-team-19/pull/28) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
-3. 💪 Opened PR [#27](https://github.com/chingu-voyages/v46-tier2-team-19/pull/27) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
-4. 🎉 Merged PR [#26](https://github.com/chingu-voyages/v46-tier2-team-19/pull/26) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
-5. 🎉 Merged PR [#24](https://github.com/chingu-voyages/v46-tier2-team-19/pull/24) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
+1. 💪 Opened PR [#30](https://github.com/chingu-voyages/v46-tier2-team-19/pull/30) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
+2. 🎉 Merged PR [#27](https://github.com/chingu-voyages/v46-tier2-team-19/pull/27) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
+3. 🎉 Merged PR [#29](https://github.com/chingu-voyages/v46-tier2-team-19/pull/29) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
+4. 🎉 Merged PR [#28](https://github.com/chingu-voyages/v46-tier2-team-19/pull/28) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
+5. 💪 Opened PR [#27](https://github.com/chingu-voyages/v46-tier2-team-19/pull/27) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
 <!--END_SECTION:activity-->
 </div>
     </td>
