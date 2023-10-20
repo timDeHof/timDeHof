@@ -224,11 +224,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/timDeHof/passwordGenerator/pull/1) in [timDeHof/passwordGenerator](https://github.com/timDeHof/passwordGenerator)
-2. 💪 Opened PR [#1](https://github.com/timDeHof/passwordGenerator/pull/1) in [timDeHof/passwordGenerator](https://github.com/timDeHof/passwordGenerator)
-3. 💪 Opened PR [#36](https://github.com/chingu-voyages/v46-tier2-team-19/pull/36) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
-4. 🎉 Merged PR [#35](https://github.com/chingu-voyages/v46-tier2-team-19/pull/35) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
-5. 🎉 Merged PR [#34](https://github.com/chingu-voyages/v46-tier2-team-19/pull/34) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
+1. 🎉 Merged PR [#36](https://github.com/chingu-voyages/v46-tier2-team-19/pull/36) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
+2. 🎉 Merged PR [#1](https://github.com/timDeHof/passwordGenerator/pull/1) in [timDeHof/passwordGenerator](https://github.com/timDeHof/passwordGenerator)
+3. 💪 Opened PR [#1](https://github.com/timDeHof/passwordGenerator/pull/1) in [timDeHof/passwordGenerator](https://github.com/timDeHof/passwordGenerator)
+4. 💪 Opened PR [#36](https://github.com/chingu-voyages/v46-tier2-team-19/pull/36) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
+5. 🎉 Merged PR [#35](https://github.com/chingu-voyages/v46-tier2-team-19/pull/35) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
 <!--END_SECTION:activity-->
 </div>
     </td>
