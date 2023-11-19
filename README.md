@@ -224,11 +224,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/timDeHof/timdehof.dev/pull/8) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
-2. 💪 Opened PR [#8](https://github.com/timDeHof/timdehof.dev/pull/8) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
-3. ❗ Opened issue [#56](https://github.com/timDeHof/movie-nextjs-app/issues/56) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
-4. ❗ Opened issue [#55](https://github.com/timDeHof/movie-nextjs-app/issues/55) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
-5. ❗ Opened issue [#54](https://github.com/timDeHof/movie-nextjs-app/issues/54) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+1. 🎉 Merged PR [#9](https://github.com/timDeHof/timdehof.dev/pull/9) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
+2. 💪 Opened PR [#9](https://github.com/timDeHof/timdehof.dev/pull/9) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
+3. 🎉 Merged PR [#8](https://github.com/timDeHof/timdehof.dev/pull/8) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
+4. 💪 Opened PR [#8](https://github.com/timDeHof/timdehof.dev/pull/8) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
+5. ❗ Opened issue [#56](https://github.com/timDeHof/movie-nextjs-app/issues/56) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
 <!--END_SECTION:activity-->
 </div>
     </td>
