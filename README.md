@@ -224,11 +224,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#114](https://github.com/chingu-voyages/v46-tier2-team-19/pull/114) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
-2. 🎉 Merged PR [#106](https://github.com/chingu-voyages/v46-tier2-team-19/pull/106) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
-3. 🎉 Merged PR [#113](https://github.com/chingu-voyages/v46-tier2-team-19/pull/113) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
-4. 💪 Opened PR [#113](https://github.com/chingu-voyages/v46-tier2-team-19/pull/113) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
-5. 🎉 Merged PR [#112](https://github.com/chingu-voyages/v46-tier2-team-19/pull/112) in [chingu-voyages/v46-tier2-team-19](https://github.com/chingu-voyages/v46-tier2-team-19)
+1. ❗ Opened issue [#56](https://github.com/timDeHof/movie-nextjs-app/issues/56) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+2. ❗ Opened issue [#55](https://github.com/timDeHof/movie-nextjs-app/issues/55) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+3. ❗ Opened issue [#54](https://github.com/timDeHof/movie-nextjs-app/issues/54) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+4. ❗ Opened issue [#53](https://github.com/timDeHof/movie-nextjs-app/issues/53) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+5. ❗ Opened issue [#52](https://github.com/timDeHof/movie-nextjs-app/issues/52) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
 <!--END_SECTION:activity-->
 </div>
     </td>
