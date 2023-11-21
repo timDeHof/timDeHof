@@ -25,6 +25,9 @@
       <td>  
  <a href="https://app.daily.dev/timdehof"><img 
   src="https://github.com/timDeHof/timDeHof/blob/main/devcard.svg" width="300" alt="tim DeHof's Dev Card"/></a> 
+    <a href="https://cloud.appwrite.io/card/6467806be7527810829c">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6467806be7527810829c" alt="Appwrite Cloud Card" />
+</a>
     </td> 
   </tr>
 </table>
@@ -221,11 +224,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/44) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
-2. ❗ Opened issue [#43](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/43) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
-3. ❗ Opened issue [#42](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/42) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
-4. ❗ Opened issue [#41](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/41) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
-5. ❗ Opened issue [#40](https://github.com/timDeHof/PawnShop-Galaxyv2.0/issues/40) in [timDeHof/PawnShop-Galaxyv2.0](https://github.com/timDeHof/PawnShop-Galaxyv2.0)
+1. 🎉 Merged PR [#10](https://github.com/timDeHof/timdehof.dev/pull/10) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
+2. 💪 Opened PR [#10](https://github.com/timDeHof/timdehof.dev/pull/10) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
+3. 🎉 Merged PR [#9](https://github.com/timDeHof/timdehof.dev/pull/9) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
+4. 💪 Opened PR [#9](https://github.com/timDeHof/timdehof.dev/pull/9) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
+5. 🎉 Merged PR [#8](https://github.com/timDeHof/timdehof.dev/pull/8) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
 <!--END_SECTION:activity-->
 </div>
     </td>
