@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Hashnode Blog
         # You may pin to the exact commit or the version.
         # uses: varunsridharan/action-hashnode-blog@38936ff46f6ae78dcc6c8116d5db96a8bc7bad94
