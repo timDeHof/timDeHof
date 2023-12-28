@@ -2,27 +2,25 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100">
   <h1>
     Hi there 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>
+	  My name is Tim DeHof
   </h1> 
 </div>
   
 <div id="me" align="center">
   <h3>👨‍💻 About Me </h3>
+	<p>I’m someone who loves diving into various aspects of technology. While I have a strong foundation in frontend development using tools like React and Node, I don’t stop there. My tech journey is diverse, including significant experience in 3D printing and mechanical engineering. Over the years, I’ve enjoyed blending different technologies and methodologies to create unique solutions. Whether it’s building engaging web applications or innovating in 3D printing, I’m all about exploring the limitless possibilities of technology.</p>
 <table align="center" style="border:none">
   <tr>
-    <td valign="center">
- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Florida.
-      
- 😄 Pronouns: (he/him)
-      
- 🔭 I’m currently looking for job opportunities and continuing my education in tech.
-      
- 👯 I’m looking to collaborate on Projects.
-      
- 🌱 I’m currently learning the PERN tech stack,redux, and typescript.
-      
- ⚡ When I am not coding, I enjoy anime, video games, and reading tech articles.
-      <td>  
+    <td>
+	<ul>
+		<li>🌍  I'm based in Florida</li>     
+		<li>🖥️  See my portfolio at <a href="http://timdehof.dev" target="_blank" rel="noreferrer">timdehof.dev</a></li>
+		<li> ✉️  You can contact me at <a href="mailto:contact@timdehof.dev" target="_blank" rel="noreferrer">contact@timdehof.dev</a></li>
+		<li>🧠  I'm learning typescript, next.js, payload CMS, and rust</li>
+		<li>🤝  I'm open to collaborating on interesting projects</li>
+	</ul>
+<td>  
  <a href="https://app.daily.dev/timdehof"><img 
   src="https://github.com/timDeHof/timDeHof/blob/main/devcard.svg" width="300" alt="tim DeHof's Dev Card"/></a> 
     <a href="https://cloud.appwrite.io/card/6467806be7527810829c">
@@ -37,24 +35,7 @@
 
 <div id="badges" align="center">
   <h3> 👋🏼 Connect With Me</h3>
-  <a href="https://www.linkedin.com/in/timothy-dehof/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/timdehof">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://codepen.io/timdehof">
-        <img src="https://img.shields.io/badge/codepen-gray?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
-  </a>
-  <a href="https://www.polywork.com/timdehof">
-    <img src="https://img.shields.io/badge/Polywork-blue?style=for-the-badge&logo=polywork&logoColor=white" alt="Polywork Badge"/>
-  </a>
-  <a href="https://blog.timdehof.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge" />
-  </a>
-  <a href="https://dev.to/timdehof">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Devto Badge" /> 
-  </a>  
+<p align="center"> <a href="https://discord.com/users/timdehof" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/timDeHof" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://timdehof.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/timothy-dehof/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/timdehof" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 </div>
 <div id="skills" align="center">
   <h3>:hammer_and_wrench: Skills </h3>
