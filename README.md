@@ -9,7 +9,7 @@
   
 <div id="me" align="center">
   <h3>👨‍💻 About Me </h3>
-	<p>I’m someone who loves diving into various aspects of technology. While I have a strong foundation in frontend development using tools like React and Node, I don’t stop there. My tech journey is diverse, including significant experience in 3D printing and mechanical engineering. Over the years, I’ve enjoyed blending different technologies and methodologies to create unique solutions. Whether it’s building engaging web applications or innovating in 3D printing, I’m all about exploring the limitless possibilities of technology.</p>
+	<p>I’m someone who loves diving into various aspects of technology. While I have a strong foundation in frontend development using tools like React and Node, I don’t stop there. My tech journey is diverse. I have significant experience in 3D printing and mechanical engineering. Over the years, I've enjoyed blending different technologies and methodologies. I do this to create unique solutions. I'm all about exploring the limitless possibilities of technology. I enjoy building engaging web applications and innovating in 3D printing.</p>
 <table align="center" style="border:none">
   <tr>
     <td>
