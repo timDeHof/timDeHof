@@ -205,11 +205,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/timDeHof/nodejs-web-server/pull/1) in [timDeHof/nodejs-web-server](https://github.com/timDeHof/nodejs-web-server)
-2. 💪 Opened PR [#1](https://github.com/timDeHof/nodejs-web-server/pull/1) in [timDeHof/nodejs-web-server](https://github.com/timDeHof/nodejs-web-server)
-3. 🎉 Merged PR [#12](https://github.com/timDeHof/timDeHof/pull/12) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
-4. 🎉 Merged PR [#13](https://github.com/timDeHof/timDeHof/pull/13) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
-5. 🎉 Merged PR [#11](https://github.com/timDeHof/timdehof.dev/pull/11) in [timDeHof/timdehof.dev](https://github.com/timDeHof/timdehof.dev)
+1. ❗ Opened issue [#3](https://github.com/timDeHof/nodejs-web-server/issues/3) in [timDeHof/nodejs-web-server](https://github.com/timDeHof/nodejs-web-server)
+2. 🎉 Merged PR [#2](https://github.com/timDeHof/nodejs-web-server/pull/2) in [timDeHof/nodejs-web-server](https://github.com/timDeHof/nodejs-web-server)
+3. 💪 Opened PR [#2](https://github.com/timDeHof/nodejs-web-server/pull/2) in [timDeHof/nodejs-web-server](https://github.com/timDeHof/nodejs-web-server)
+4. 🎉 Merged PR [#1](https://github.com/timDeHof/nodejs-web-server/pull/1) in [timDeHof/nodejs-web-server](https://github.com/timDeHof/nodejs-web-server)
+5. 💪 Opened PR [#1](https://github.com/timDeHof/nodejs-web-server/pull/1) in [timDeHof/nodejs-web-server](https://github.com/timDeHof/nodejs-web-server)
 <!--END_SECTION:activity-->
 </div>
     </td>
