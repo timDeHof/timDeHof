@@ -20,12 +20,13 @@
 		<li>🧠  I'm learning typescript, next.js, payload CMS, and rust</li>
 		<li>🤝  I'm open to collaborating on interesting projects</li>
 	</ul>
-<td>  
- <a href="https://app.daily.dev/timdehof"><img 
-  src="https://github.com/timDeHof/timDeHof/blob/main/devcard.svg" width="300" alt="tim DeHof's Dev Card"/></a> 
+<td>
+	<div id="cards" align="center">
+	<a href="https://app.daily.dev/timdehof"><img src="https://api.daily.dev/devcards/v2/lpPMBYryZtiCO7nQICNaN.png?r=w6v&type=wide" width="652" alt="tim DeHof's Dev Card"/></a>
     <a href="https://cloud.appwrite.io/card/6467806be7527810829c">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6467806be7527810829c" alt="Appwrite Cloud Card" />
-</a>
+</a>	
+	</div>
     </td> 
   </tr>
 </table>
