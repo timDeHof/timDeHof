@@ -206,11 +206,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/chingu-x/chingu-dashboard-be/pull/123#issuecomment-2021803431) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-2. 💪 Opened PR [#123](https://github.com/chingu-x/chingu-dashboard-be/pull/123) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-3. 💪 Opened PR [#58](https://github.com/timDeHof/movie-nextjs-app/pull/58) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
-4. 💪 Opened PR [#57](https://github.com/timDeHof/movie-nextjs-app/pull/57) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
-5. 🗣 Commented on [#120](https://github.com/chingu-x/chingu-dashboard-be/pull/120#issuecomment-2016522347) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+1. 🗣 Commented on [#123](https://github.com/chingu-x/chingu-dashboard-be/pull/123#issuecomment-2023994606) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+2. 🗣 Commented on [#123](https://github.com/chingu-x/chingu-dashboard-be/pull/123#issuecomment-2021803431) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+3. 💪 Opened PR [#123](https://github.com/chingu-x/chingu-dashboard-be/pull/123) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+4. 💪 Opened PR [#58](https://github.com/timDeHof/movie-nextjs-app/pull/58) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
+5. 💪 Opened PR [#57](https://github.com/timDeHof/movie-nextjs-app/pull/57) in [timDeHof/movie-nextjs-app](https://github.com/timDeHof/movie-nextjs-app)
 <!--END_SECTION:activity-->
 </div>
     </td>
