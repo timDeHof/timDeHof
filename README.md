@@ -16,8 +16,8 @@
 	<ul>
 		<li>🌍  I'm based in Florida</li>     
 		<li>🖥️  See my portfolio at <a href="http://timdehof.dev" target="_blank" rel="noreferrer">timdehof.dev</a></li>
-		<li> ✉️  You can contact me at <a href="mailto:contact@timdehof.dev" target="_blank" rel="noreferrer">contact@timdehof.dev</a></li>
-		<li>🧠  I'm learning typescript, next.js, nest.js, and rust</li>
+		<li> ✉️  You can contact me at <a href="mailto:hello@timdehof.dev" target="_blank" rel="noreferrer">hello@timdehof.dev</a></li>
+		<li>🧠  I'm learning typescript, next.js, nest.js, and aws</li>
 		<li>🤝  I'm open to collaborating on interesting projects</li>
 	</ul>
 <td>
