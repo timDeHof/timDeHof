@@ -1,10 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100">
-  <h1>
-    Hi there 
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>
-	  My name is Tim DeHof
-  </h1> 
+  <img src="https://github.com/timDeHof/timDeHof/blob/main/github_profile_banner.png"> 
 </div>
   
 <div id="me" align="center">
