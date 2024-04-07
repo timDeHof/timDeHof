@@ -199,6 +199,7 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   </div>
   
 </div>
+<h3 align="center"> :fire: My Stats </h3>
 <table>
   <tr>
     <td>
@@ -215,12 +216,10 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
 </div>
     </td>
     <td>
-      <div id="stats">
-<h3 align="center"> :fire: My Stats </h3>
-  
+      <div id="stats" align='center'>
+	      
 ![timDeHof's GitHub stats](https://github-readme-stats.vercel.app/api?username=timDeHof&theme=monokai&show_icons=true)
-[![timDeHof's GitHub | Dependencies](https://stats.quine.sh/timDeHof/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=timDeHof)
-  
+
 </div>
     </td>
   </tr>
