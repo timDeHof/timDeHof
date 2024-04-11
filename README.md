@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#196](https://github.com/appwrite/website/pull/196#issuecomment-2043592488) in [appwrite/website](https://github.com/appwrite/website)
-2. 💪 Opened PR [#131](https://github.com/chingu-x/chingu-dashboard-be/pull/131) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-3. 🎉 Merged PR [#127](https://github.com/chingu-x/chingu-dashboard-be/pull/127) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-4. 💪 Opened PR [#127](https://github.com/chingu-x/chingu-dashboard-be/pull/127) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-5. 🗣 Commented on [#124](https://github.com/chingu-x/chingu-dashboard-be/pull/124#issuecomment-2026525965) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+1. 🗣 Commented on [#131](https://github.com/chingu-x/chingu-dashboard-be/pull/131#issuecomment-2049605740) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+2. 🗣 Commented on [#196](https://github.com/appwrite/website/pull/196#issuecomment-2043592488) in [appwrite/website](https://github.com/appwrite/website)
+3. 💪 Opened PR [#131](https://github.com/chingu-x/chingu-dashboard-be/pull/131) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+4. 🎉 Merged PR [#127](https://github.com/chingu-x/chingu-dashboard-be/pull/127) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+5. 💪 Opened PR [#127](https://github.com/chingu-x/chingu-dashboard-be/pull/127) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
 <!--END_SECTION:activity-->
 </div>
     </td>
