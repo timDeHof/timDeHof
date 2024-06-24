@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/timDeHof/reelwatch/pull/59) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
-2. 💪 Opened PR [#59](https://github.com/timDeHof/reelwatch/pull/59) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
-3. 💪 Opened PR [#167](https://github.com/chingu-x/chingu-dashboard-be/pull/167) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-4. 🗣 Commented on [#152](https://github.com/chingu-x/chingu-dashboard-be/pull/152#issuecomment-2138542435) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-5. 🎉 Merged PR [#158](https://github.com/chingu-x/chingu-dashboard-be/pull/158) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+1. ❌ Closed PR [#57](https://github.com/timDeHof/reelwatch/pull/57) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
+2. ❌ Closed PR [#58](https://github.com/timDeHof/reelwatch/pull/58) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
+3. 🎉 Merged PR [#59](https://github.com/timDeHof/reelwatch/pull/59) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
+4. 💪 Opened PR [#59](https://github.com/timDeHof/reelwatch/pull/59) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
+5. 💪 Opened PR [#167](https://github.com/chingu-x/chingu-dashboard-be/pull/167) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
 <!--END_SECTION:activity-->
 </div>
     </td>
