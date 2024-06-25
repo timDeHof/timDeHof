@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/timDeHof/reelwatch/pull/60) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
-2. 💪 Opened PR [#60](https://github.com/timDeHof/reelwatch/pull/60) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
-3. ❌ Closed PR [#57](https://github.com/timDeHof/reelwatch/pull/57) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
-4. ❌ Closed PR [#58](https://github.com/timDeHof/reelwatch/pull/58) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
-5. 🎉 Merged PR [#59](https://github.com/timDeHof/reelwatch/pull/59) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
+1. 💪 Opened PR [#1](https://github.com/timDeHof/median/pull/1) in [timDeHof/median](https://github.com/timDeHof/median)
+2. 🎉 Merged PR [#60](https://github.com/timDeHof/reelwatch/pull/60) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
+3. 💪 Opened PR [#60](https://github.com/timDeHof/reelwatch/pull/60) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
+4. ❌ Closed PR [#57](https://github.com/timDeHof/reelwatch/pull/57) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
+5. ❌ Closed PR [#58](https://github.com/timDeHof/reelwatch/pull/58) in [timDeHof/reelwatch](https://github.com/timDeHof/reelwatch)
 <!--END_SECTION:activity-->
 </div>
     </td>
