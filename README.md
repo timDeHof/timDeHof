@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/timDeHof/median/pull/3) in [timDeHof/median](https://github.com/timDeHof/median)
-2. 💪 Opened PR [#3](https://github.com/timDeHof/median/pull/3) in [timDeHof/median](https://github.com/timDeHof/median)
-3. 🎉 Merged PR [#2](https://github.com/timDeHof/median/pull/2) in [timDeHof/median](https://github.com/timDeHof/median)
-4. 💪 Opened PR [#2](https://github.com/timDeHof/median/pull/2) in [timDeHof/median](https://github.com/timDeHof/median)
-5. 🎉 Merged PR [#1](https://github.com/timDeHof/median/pull/1) in [timDeHof/median](https://github.com/timDeHof/median)
+1. 🎉 Merged PR [#4](https://github.com/timDeHof/median/pull/4) in [timDeHof/median](https://github.com/timDeHof/median)
+2. 💪 Opened PR [#4](https://github.com/timDeHof/median/pull/4) in [timDeHof/median](https://github.com/timDeHof/median)
+3. 🎉 Merged PR [#3](https://github.com/timDeHof/median/pull/3) in [timDeHof/median](https://github.com/timDeHof/median)
+4. 💪 Opened PR [#3](https://github.com/timDeHof/median/pull/3) in [timDeHof/median](https://github.com/timDeHof/median)
+5. 🎉 Merged PR [#2](https://github.com/timDeHof/median/pull/2) in [timDeHof/median](https://github.com/timDeHof/median)
 <!--END_SECTION:activity-->
 </div>
     </td>
