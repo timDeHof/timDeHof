@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#218](https://github.com/chingu-x/chingu-dashboard/issues/218) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
-2. ❗ Opened issue [#211](https://github.com/chingu-x/chingu-dashboard/issues/211) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
-3. 🎉 Merged PR [#16](https://github.com/timDeHof/timDeHof/pull/16) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
-4. 💪 Opened PR [#187](https://github.com/chingu-x/chingu-dashboard-be/pull/187) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-5. 🗣 Commented on [#182](https://github.com/chingu-x/chingu-dashboard/issues/182#issuecomment-2297714304) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
+1. 🗣 Commented on [#190](https://github.com/chingu-x/chingu-dashboard-be/pull/190#issuecomment-2313767659) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+2. ❗ Opened issue [#218](https://github.com/chingu-x/chingu-dashboard/issues/218) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
+3. ❗ Opened issue [#211](https://github.com/chingu-x/chingu-dashboard/issues/211) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
+4. 🎉 Merged PR [#16](https://github.com/timDeHof/timDeHof/pull/16) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
+5. 💪 Opened PR [#187](https://github.com/chingu-x/chingu-dashboard-be/pull/187) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
 <!--END_SECTION:activity-->
 </div>
     </td>
