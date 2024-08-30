@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/timDeHof/customer-portal-demo/pull/9) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
-2. 💪 Opened PR [#9](https://github.com/timDeHof/customer-portal-demo/pull/9) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
-3. ❗ Opened issue [#8](https://github.com/timDeHof/customer-portal-demo/issues/8) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
-4. 🔒 Closed issue [#6](https://github.com/timDeHof/customer-portal-demo/issues/6) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
-5. 🎉 Merged PR [#7](https://github.com/timDeHof/customer-portal-demo/pull/7) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
+1. ❗ Opened issue [#11](https://github.com/timDeHof/customer-portal-demo/issues/11) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
+2. 🎉 Merged PR [#10](https://github.com/timDeHof/customer-portal-demo/pull/10) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
+3. 💪 Opened PR [#10](https://github.com/timDeHof/customer-portal-demo/pull/10) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
+4. 🎉 Merged PR [#9](https://github.com/timDeHof/customer-portal-demo/pull/9) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
+5. 💪 Opened PR [#9](https://github.com/timDeHof/customer-portal-demo/pull/9) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
 <!--END_SECTION:activity-->
 </div>
     </td>
