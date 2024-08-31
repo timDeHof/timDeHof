@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/timDeHof/customer-portal-demo/pull/18) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
-2. 💪 Opened PR [#18](https://github.com/timDeHof/customer-portal-demo/pull/18) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
-3. 🎉 Merged PR [#17](https://github.com/timDeHof/customer-portal-demo/pull/17) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
-4. 💪 Opened PR [#17](https://github.com/timDeHof/customer-portal-demo/pull/17) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
-5. ❗ Opened issue [#16](https://github.com/timDeHof/customer-portal-demo/issues/16) in [timDeHof/customer-portal-demo](https://github.com/timDeHof/customer-portal-demo)
+1. 🗣 Commented on [#190](https://github.com/chingu-x/chingu-dashboard-be/pull/190#issuecomment-2313883844) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+2. 🗣 Commented on [#190](https://github.com/chingu-x/chingu-dashboard-be/pull/190#issuecomment-2313767659) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+3. ❗ Opened issue [#218](https://github.com/chingu-x/chingu-dashboard/issues/218) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
+4. ❗ Opened issue [#211](https://github.com/chingu-x/chingu-dashboard/issues/211) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
+5. 🎉 Merged PR [#16](https://github.com/timDeHof/timDeHof/pull/16) in [timDeHof/timDeHof](https://github.com/timDeHof/timDeHof)
 <!--END_SECTION:activity-->
 </div>
     </td>
