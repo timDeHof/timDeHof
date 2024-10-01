@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com/chingu-x/chingu-dashboard-be/pull/202#issuecomment-2385892673) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-2. 🗣 Commented on [#210](https://github.com/chingu-x/chingu-dashboard-be/pull/210#issuecomment-2384661804) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-3. 🗣 Commented on [#210](https://github.com/chingu-x/chingu-dashboard-be/pull/210#issuecomment-2384647270) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-4. 🗣 Commented on [#8](https://github.com/cherylli/chingu-dashboard-be/pull/8#issuecomment-2383196473) in [cherylli/chingu-dashboard-be](https://github.com/cherylli/chingu-dashboard-be)
-5. 🎉 Merged PR [#5](https://github.com/timDeHof/median/pull/5) in [timDeHof/median](https://github.com/timDeHof/median)
+1. 🗣 Commented on [#8](https://github.com/cherylli/chingu-dashboard-be/pull/8#issuecomment-2386547922) in [cherylli/chingu-dashboard-be](https://github.com/cherylli/chingu-dashboard-be)
+2. 🗣 Commented on [#202](https://github.com/chingu-x/chingu-dashboard-be/pull/202#issuecomment-2385892673) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+3. 🗣 Commented on [#210](https://github.com/chingu-x/chingu-dashboard-be/pull/210#issuecomment-2384661804) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+4. 🗣 Commented on [#210](https://github.com/chingu-x/chingu-dashboard-be/pull/210#issuecomment-2384647270) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+5. 🗣 Commented on [#8](https://github.com/cherylli/chingu-dashboard-be/pull/8#issuecomment-2383196473) in [cherylli/chingu-dashboard-be](https://github.com/cherylli/chingu-dashboard-be)
 <!--END_SECTION:activity-->
 </div>
     </td>
