@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#233](https://github.com/chingu-x/chingu-dashboard-be/pull/233) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-2. 💪 Opened PR [#233](https://github.com/chingu-x/chingu-dashboard-be/pull/233) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-3. 🗣 Commented on [#231](https://github.com/chingu-x/chingu-dashboard-be/pull/231#issuecomment-2542654377) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-4. 🗣 Commented on [#224](https://github.com/chingu-x/chingu-dashboard-be/pull/224#issuecomment-2510373813) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
-5. 🗣 Commented on [#224](https://github.com/chingu-x/chingu-dashboard-be/pull/224#issuecomment-2510347214) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+1. 🎉 Merged PR [#1](https://github.com/timDeHof/shadcn-timeline/pull/1) in [timDeHof/shadcn-timeline](https://github.com/timDeHof/shadcn-timeline)
+2. 💪 Opened PR [#1](https://github.com/timDeHof/shadcn-timeline/pull/1) in [timDeHof/shadcn-timeline](https://github.com/timDeHof/shadcn-timeline)
+3. 🎉 Merged PR [#233](https://github.com/chingu-x/chingu-dashboard-be/pull/233) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+4. 💪 Opened PR [#233](https://github.com/chingu-x/chingu-dashboard-be/pull/233) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+5. 🗣 Commented on [#231](https://github.com/chingu-x/chingu-dashboard-be/pull/231#issuecomment-2542654377) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
 <!--END_SECTION:activity-->
 </div>
     </td>
