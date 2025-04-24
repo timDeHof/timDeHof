@@ -202,7 +202,7 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#249](https://github.com/chingu-x/chingu-dashboard-be/pull/249) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
+1. 🎉 Merged PR [#249](https://github.com/chingu-x/chingu-dashboard-be/pull/249) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
 2. 🎉 Merged PR [#246](https://github.com/chingu-x/chingu-dashboard-be/pull/246) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
 3. 🗣 Commented on [#246](https://github.com/chingu-x/chingu-dashboard-be/pull/246#issuecomment-2706454693) in [chingu-x/chingu-dashboard-be](https://github.com/chingu-x/chingu-dashboard-be)
 4. 🎉 Merged PR [#1](https://github.com/timDeHof/webflyx/pull/1) in [timDeHof/webflyx](https://github.com/timDeHof/webflyx)
