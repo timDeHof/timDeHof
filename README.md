@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/timDeHof/nuxt-travel-log/issues/16) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
-2. 🎉 Merged PR [#55](https://github.com/timDeHof/nuxt-travel-log/pull/55) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
-3. 💪 Opened PR [#55](https://github.com/timDeHof/nuxt-travel-log/pull/55) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
-4. 🔒 Closed issue [#15](https://github.com/timDeHof/nuxt-travel-log/issues/15) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
-5. 🎉 Merged PR [#54](https://github.com/timDeHof/nuxt-travel-log/pull/54) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
+1. 🔒 Closed issue [#18](https://github.com/timDeHof/nuxt-travel-log/issues/18) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
+2. 🔒 Closed issue [#17](https://github.com/timDeHof/nuxt-travel-log/issues/17) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
+3. 🎉 Merged PR [#56](https://github.com/timDeHof/nuxt-travel-log/pull/56) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
+4. 💪 Opened PR [#56](https://github.com/timDeHof/nuxt-travel-log/pull/56) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
+5. 🔒 Closed issue [#16](https://github.com/timDeHof/nuxt-travel-log/issues/16) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
 <!--END_SECTION:activity-->
 </div>
     </td>
