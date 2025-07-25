@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#24](https://github.com/timDeHof/nuxt-travel-log/issues/24) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
-2. 🎉 Merged PR [#61](https://github.com/timDeHof/nuxt-travel-log/pull/61) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
-3. 💪 Opened PR [#61](https://github.com/timDeHof/nuxt-travel-log/pull/61) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
-4. 🔒 Closed issue [#22](https://github.com/timDeHof/nuxt-travel-log/issues/22) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
-5. 🎉 Merged PR [#60](https://github.com/timDeHof/nuxt-travel-log/pull/60) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
+1. ❗ Opened issue [#16](https://github.com/timDeHof/brag-doc-mvp/issues/16) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+2. ❗ Opened issue [#14](https://github.com/timDeHof/brag-doc-mvp/issues/14) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+3. ❗ Opened issue [#15](https://github.com/timDeHof/brag-doc-mvp/issues/15) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+4. ❗ Opened issue [#12](https://github.com/timDeHof/brag-doc-mvp/issues/12) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+5. ❗ Opened issue [#13](https://github.com/timDeHof/brag-doc-mvp/issues/13) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
 <!--END_SECTION:activity-->
 </div>
     </td>
