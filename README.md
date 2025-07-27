@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#25](https://github.com/timDeHof/brag-doc-mvp/issues/25) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
-2. ❗ Opened issue [#24](https://github.com/timDeHof/brag-doc-mvp/issues/24) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
-3. ❗ Opened issue [#23](https://github.com/timDeHof/brag-doc-mvp/issues/23) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
-4. ❗ Opened issue [#22](https://github.com/timDeHof/brag-doc-mvp/issues/22) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
-5. ❗ Opened issue [#21](https://github.com/timDeHof/brag-doc-mvp/issues/21) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+1. ❗ Opened issue [#58](https://github.com/timDeHof/brag-doc-mvp/issues/58) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+2. ❗ Opened issue [#57](https://github.com/timDeHof/brag-doc-mvp/issues/57) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+3. ❗ Opened issue [#56](https://github.com/timDeHof/brag-doc-mvp/issues/56) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+4. ❗ Opened issue [#55](https://github.com/timDeHof/brag-doc-mvp/issues/55) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+5. ❗ Opened issue [#54](https://github.com/timDeHof/brag-doc-mvp/issues/54) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
 <!--END_SECTION:activity-->
 </div>
     </td>
