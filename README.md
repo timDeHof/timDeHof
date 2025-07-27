@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#34](https://github.com/timDeHof/brag-doc-mvp/issues/34) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
-2. 🎉 Merged PR [#59](https://github.com/timDeHof/brag-doc-mvp/pull/59) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
-3. 💪 Opened PR [#59](https://github.com/timDeHof/brag-doc-mvp/pull/59) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
-4. ❗ Opened issue [#58](https://github.com/timDeHof/brag-doc-mvp/issues/58) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
-5. ❗ Opened issue [#57](https://github.com/timDeHof/brag-doc-mvp/issues/57) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+1. 🔒 Closed issue [#35](https://github.com/timDeHof/brag-doc-mvp/issues/35) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+2. 🎉 Merged PR [#60](https://github.com/timDeHof/brag-doc-mvp/pull/60) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+3. 💪 Opened PR [#60](https://github.com/timDeHof/brag-doc-mvp/pull/60) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+4. 🔒 Closed issue [#34](https://github.com/timDeHof/brag-doc-mvp/issues/34) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
+5. 🎉 Merged PR [#59](https://github.com/timDeHof/brag-doc-mvp/pull/59) in [timDeHof/brag-doc-mvp](https://github.com/timDeHof/brag-doc-mvp)
 <!--END_SECTION:activity-->
 </div>
     </td>
