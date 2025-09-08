@@ -203,7 +203,7 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#34](https://github.com/timDeHof/nuxt-travel-log/issues/34) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
-2. 🎉 Merged PR [#71](https://github.com/timDeHof/nuxt-travel-log/pull/71) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
+2. 💪 Opened PR [#71](undefined) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
 3. 💪 Opened PR [#71](https://github.com/timDeHof/nuxt-travel-log/pull/71) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
 4. 🔒 Closed issue [#32](https://github.com/timDeHof/nuxt-travel-log/issues/32) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
 5. 🎉 Merged PR [#70](https://github.com/timDeHof/nuxt-travel-log/pull/70) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
