@@ -202,9 +202,9 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#291](https://github.com/chingu-x/chingu-dashboard/pull/291) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
-2. 💪 Opened PR [#291](https://github.com/chingu-x/chingu-dashboard/pull/291) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
-3. 💪 Opened PR [#71](https://github.com/timDeHof/nuxt-travel-log/pull/71) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
+1. 💪 Opened PR [#292](https://github.com/chingu-x/chingu-dashboard/pull/292) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
+2. 🎉 Merged PR [#291](https://github.com/chingu-x/chingu-dashboard/pull/291) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
+3. 💪 Opened PR [#291](https://github.com/chingu-x/chingu-dashboard/pull/291) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
 4. 🔒 Closed issue [#32](https://github.com/timDeHof/nuxt-travel-log/issues/32) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
 5. 🎉 Merged PR [#70](https://github.com/timDeHof/nuxt-travel-log/pull/70) in [timDeHof/nuxt-travel-log](https://github.com/timDeHof/nuxt-travel-log)
 <!--END_SECTION:activity-->
