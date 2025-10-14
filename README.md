@@ -204,8 +204,8 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#302](https://github.com/chingu-x/chingu-dashboard/issues/302) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
 2. 🗣 Commented on [#292](https://github.com/chingu-x/chingu-dashboard/pull/292#issuecomment-3382050346) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
-3. 💪 Opened PR [#292](https://github.com/chingu-x/chingu-dashboard/pull/292) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
-4. 🎉 Merged PR [#291](https://github.com/chingu-x/chingu-dashboard/pull/291) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
+3. 💪 Opened PR [#292](undefined) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
+4. 🗣 Commented on [#291](https://github.com/chingu-x/chingu-dashboard/pull/291#issuecomment-3303247191) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
 5. 💪 Opened PR [#291](https://github.com/chingu-x/chingu-dashboard/pull/291) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
 <!--END_SECTION:activity-->
 </div>
