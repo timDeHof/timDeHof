@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-2. 💪 Opened PR [#1](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-3. 💪 Opened PR [#292](undefined) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
-4. 🗣 Commented on [#291](https://github.com/chingu-x/chingu-dashboard/pull/291#issuecomment-3303247191) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
-5. 💪 Opened PR [#291](https://github.com/chingu-x/chingu-dashboard/pull/291) in [chingu-x/chingu-dashboard](https://github.com/chingu-x/chingu-dashboard)
+1. ❗ Opened issue [#4](https://github.com/timDeHof/myPortfolio/issues/4) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+2. ❗ Opened issue [#3](https://github.com/timDeHof/myPortfolio/issues/3) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+3. ❗ Opened issue [#2](https://github.com/timDeHof/myPortfolio/issues/2) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+4. ❌ Merged PR [#1](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+5. 💪 Opened PR [#1](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
