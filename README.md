@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/timDeHof/myPortfolio/issues/4) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-2. ❗ Opened issue [#3](https://github.com/timDeHof/myPortfolio/issues/3) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-3. ❗ Opened issue [#2](https://github.com/timDeHof/myPortfolio/issues/2) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-4. ❌ Merged PR [#1](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-5. 💪 Opened PR [#1](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+1. 💪 Opened PR [#5](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+2. ❗ Opened issue [#4](https://github.com/timDeHof/myPortfolio/issues/4) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+3. ❗ Opened issue [#3](https://github.com/timDeHof/myPortfolio/issues/3) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+4. ❗ Opened issue [#2](https://github.com/timDeHof/myPortfolio/issues/2) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+5. ❌ Merged PR [#1](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
