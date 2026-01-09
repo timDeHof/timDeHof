@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#7](undefined) in [timDeHof/Blog-gator](https://github.com/timDeHof/Blog-gator)
-2. 💪 Opened PR [#7](undefined) in [timDeHof/Blog-gator](https://github.com/timDeHof/Blog-gator)
-3. ❌ Merged PR [#6](undefined) in [timDeHof/Blog-gator](https://github.com/timDeHof/Blog-gator)
-4. 💪 Opened PR [#6](undefined) in [timDeHof/Blog-gator](https://github.com/timDeHof/Blog-gator)
-5. ❌ Merged PR [#4](undefined) in [timDeHof/Blog-gator](https://github.com/timDeHof/Blog-gator)
+1. ❌ Merged PR [#1](undefined) in [timDeHof/habitgate-mobile](https://github.com/timDeHof/habitgate-mobile)
+2. 💪 Opened PR [#1](undefined) in [timDeHof/habitgate-mobile](https://github.com/timDeHof/habitgate-mobile)
+3. ❌ Merged PR [#7](undefined) in [timDeHof/Blog-gator](https://github.com/timDeHof/Blog-gator)
+4. 💪 Opened PR [#7](undefined) in [timDeHof/Blog-gator](https://github.com/timDeHof/Blog-gator)
+5. ❌ Merged PR [#6](undefined) in [timDeHof/Blog-gator](https://github.com/timDeHof/Blog-gator)
 <!--END_SECTION:activity-->
 </div>
     </td>
