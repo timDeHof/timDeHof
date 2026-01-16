@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [timDeHof/habitgate-mobile](https://github.com/timDeHof/habitgate-mobile)
-2. ❌ Merged PR [#4](undefined) in [timDeHof/habitgate-mobile](https://github.com/timDeHof/habitgate-mobile)
-3. 💪 Opened PR [#4](undefined) in [timDeHof/habitgate-mobile](https://github.com/timDeHof/habitgate-mobile)
-4. ❌ Merged PR [#3](undefined) in [timDeHof/habitgate-mobile](https://github.com/timDeHof/habitgate-mobile)
-5. 💪 Opened PR [#3](undefined) in [timDeHof/habitgate-mobile](https://github.com/timDeHof/habitgate-mobile)
+1. ❌ Merged PR [#5](undefined) in [timDeHof/habitgate-mobile](https://github.com/timDeHof/habitgate-mobile)
+2. 💪 Opened PR [#5](undefined) in [timDeHof/habitgate-mobile](https://github.com/timDeHof/habitgate-mobile)
+3. ❌ Merged PR [#4](undefined) in [timDeHof/habitgate-mobile](https://github.com/timDeHof/habitgate-mobile)
+4. 💪 Opened PR [#4](undefined) in [timDeHof/habitgate-mobile](https://github.com/timDeHof/habitgate-mobile)
+5. ❌ Merged PR [#3](undefined) in [timDeHof/habitgate-mobile](https://github.com/timDeHof/habitgate-mobile)
 <!--END_SECTION:activity-->
 </div>
     </td>
