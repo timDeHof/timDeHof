@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [timDeHof/vite-blog](https://github.com/timDeHof/vite-blog)
-2. 💪 Opened PR [#2](undefined) in [timDeHof/vite-blog](https://github.com/timDeHof/vite-blog)
-3. ❌ Closed PR [#1](undefined) in [timDeHof/vite-blog](https://github.com/timDeHof/vite-blog)
-4. 💪 Opened PR [#1](undefined) in [timDeHof/vite-blog](https://github.com/timDeHof/vite-blog)
-5. ❌ Merged PR [#6](undefined) in [timDeHof/roomify](https://github.com/timDeHof/roomify)
+1. 💪 Opened PR [#3](undefined) in [timDeHof/vite-blog](https://github.com/timDeHof/vite-blog)
+2. ❌ Merged PR [#2](undefined) in [timDeHof/vite-blog](https://github.com/timDeHof/vite-blog)
+3. 💪 Opened PR [#2](undefined) in [timDeHof/vite-blog](https://github.com/timDeHof/vite-blog)
+4. ❌ Closed PR [#1](undefined) in [timDeHof/vite-blog](https://github.com/timDeHof/vite-blog)
+5. 💪 Opened PR [#1](undefined) in [timDeHof/vite-blog](https://github.com/timDeHof/vite-blog)
 <!--END_SECTION:activity-->
 </div>
     </td>
