@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#21](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-2. 💪 Opened PR [#21](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-3. 💪 Opened PR [#3](undefined) in [timDeHof/vite-blog](https://github.com/timDeHof/vite-blog)
-4. ❌ Merged PR [#2](undefined) in [timDeHof/vite-blog](https://github.com/timDeHof/vite-blog)
-5. 💪 Opened PR [#2](undefined) in [timDeHof/vite-blog](https://github.com/timDeHof/vite-blog)
+1. ❗ Opened issue [#10](https://github.com/timDeHof/shadcn-timeline/issues/10) in [timDeHof/shadcn-timeline](https://github.com/timDeHof/shadcn-timeline)
+2.  Labeled issue [#10](https://github.com/timDeHof/shadcn-timeline/issues/10) in [timDeHof/shadcn-timeline](https://github.com/timDeHof/shadcn-timeline)
+3.  Labeled issue [#9](https://github.com/timDeHof/shadcn-timeline/issues/9) in [timDeHof/shadcn-timeline](https://github.com/timDeHof/shadcn-timeline)
+4. ❗ Opened issue [#9](https://github.com/timDeHof/shadcn-timeline/issues/9) in [timDeHof/shadcn-timeline](https://github.com/timDeHof/shadcn-timeline)
+5.  Labeled issue [#8](https://github.com/timDeHof/shadcn-timeline/issues/8) in [timDeHof/shadcn-timeline](https://github.com/timDeHof/shadcn-timeline)
 <!--END_SECTION:activity-->
 </div>
     </td>
