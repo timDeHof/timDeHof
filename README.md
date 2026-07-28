@@ -202,9 +202,9 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#22](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-2. 💪 Opened PR [#22](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-3.  Labeled issue [#9](https://github.com/timDeHof/shadcn-timeline/issues/9) in [timDeHof/shadcn-timeline](https://github.com/timDeHof/shadcn-timeline)
+1. 💪 Opened PR [#23](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+2. ❌ Merged PR [#22](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+3. 💪 Opened PR [#22](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
 4. ❗ Opened issue [#9](https://github.com/timDeHof/shadcn-timeline/issues/9) in [timDeHof/shadcn-timeline](https://github.com/timDeHof/shadcn-timeline)
 5.  Labeled issue [#8](https://github.com/timDeHof/shadcn-timeline/issues/8) in [timDeHof/shadcn-timeline](https://github.com/timDeHof/shadcn-timeline)
 <!--END_SECTION:activity-->
