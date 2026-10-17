@@ -202,7 +202,7 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#30](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+1. 💪 Opened PR [#31](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
 2. 💪 Opened PR [#30](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
 3. ❌ Merged PR [#29](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
 4. 💪 Opened PR [#29](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
