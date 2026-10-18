@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-2. ❌ Closed PR [#39](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-3. 🗣 Commented on [#39](https://github.com/timDeHof/myPortfolio/pull/39#issuecomment-6250987995) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-4. ❌ Closed PR [#41](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-5. 🗣 Commented on [#41](https://github.com/timDeHof/myPortfolio/pull/41#issuecomment-6250987596) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+1. 💪 Opened PR [#46](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+2. 💪 Opened PR [#45](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+3. 💪 Opened PR [#44](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+4. 💪 Opened PR [#43](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+5. ❌ Closed PR [#39](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
