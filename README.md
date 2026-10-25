@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#10](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
-2. 💪 Opened PR [#10](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
-3. ❌ Merged PR [#6](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
-4. ❌ Merged PR [#9](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
-5. 💪 Opened PR [#9](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
+1. ❌ Merged PR [#15](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
+2. ❌ Merged PR [#14](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
+3. ❌ Merged PR [#13](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
+4. 💪 Opened PR [#15](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
+5. 💪 Opened PR [#14](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
 <!--END_SECTION:activity-->
 </div>
     </td>
