@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#62](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-2. 💪 Opened PR [#62](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-3. ❌ Merged PR [#61](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-4. 💪 Opened PR [#61](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-5. ❌ Merged PR [#60](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+1. ❌ Merged PR [#71](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+2. ❌ Merged PR [#70](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+3. 💪 Opened PR [#71](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+4. 💪 Opened PR [#70](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+5. ❌ Merged PR [#69](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
