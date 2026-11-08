@@ -202,11 +202,11 @@ I spent many years in the halls of mechanical design, learning the ins and outs 
   <h3 align="center"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#56](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-2. 💪 Opened PR [#56](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
-3. ❌ Merged PR [#21](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
-4. ❌ Merged PR [#20](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
-5. 💪 Opened PR [#21](undefined) in [timDeHof/dotfiles-latest](https://github.com/timDeHof/dotfiles-latest)
+1. ❌ Merged PR [#62](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+2. 💪 Opened PR [#62](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+3. ❌ Merged PR [#61](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+4. 💪 Opened PR [#61](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
+5. ❌ Merged PR [#60](undefined) in [timDeHof/myPortfolio](https://github.com/timDeHof/myPortfolio)
 <!--END_SECTION:activity-->
 </div>
     </td>
